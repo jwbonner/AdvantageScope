@@ -6,6 +6,7 @@
 // at the root directory of this project.
 
 (function () {
+  var baseUrl = "/AdvantageScope";
   var supportedLangs = [
     "en-US",
     "es-419",
@@ -23,6 +24,10 @@
     "zh-TW"
   ];
   var defaultLocale = "en-US";
+
+  // Normalize baseUrl to ensure it starts with a slash and doesn't end with one
+  if (baseUrl && baseUrl.charAt(0) !== "/") baseUrl = "/" + baseUrl;
+  if (baseUrl && baseUrl.charAt(baseUrl.length - 1) === "/") baseUrl = baseUrl.slice(0, -1);
 
   // Listen for manual language changes (locale dropdown clicks)
   document.addEventListener("click", function (e) {
@@ -96,9 +101,19 @@
 
     // Determine current locale of the page
     var pathname = window.location.pathname;
-    var segments = pathname.split("/").filter(Boolean);
+    var strippedPath = pathname;
+
+    // Strip the base URL before parsing locale segments
+    if (baseUrl && pathname.startsWith(baseUrl)) {
+      strippedPath = pathname.substring(baseUrl.length);
+    }
+    if (strippedPath.charAt(0) !== "/") {
+      strippedPath = "/" + strippedPath;
+    }
+
+    var segments = strippedPath.split("/").filter(Boolean);
     var currentLocale = defaultLocale;
-    var relativePath = pathname;
+    var relativePath = strippedPath;
 
     if (segments.length > 0) {
       var firstSegment = segments[0];
@@ -111,8 +126,12 @@
     // If target locale is different from current, redirect
     if (currentLocale !== targetLocale) {
       var targetPath = targetLocale === defaultLocale ? relativePath : "/" + targetLocale + relativePath;
-      targetPath = targetPath.replace(/\/+/g, "/");
-      var newUrl = targetPath + window.location.search + window.location.hash;
+
+      // Re-attach the base URL to the final redirect path
+      var finalPath = baseUrl + targetPath;
+      finalPath = finalPath.replace(/\/+/g, "/"); // Ensure no double slashes
+
+      var newUrl = finalPath + window.location.search + window.location.hash;
       window.location.replace(newUrl);
     }
   } catch (e) {

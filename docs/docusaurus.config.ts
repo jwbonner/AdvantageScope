@@ -20,10 +20,10 @@ const config: Config = {
   favicon: "/icons/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://docs.advantagescope.org",
+  url: "https://jwbonner.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/AdvantageScope/",
 
   onBrokenLinks: "throw",
   markdown: {
@@ -212,11 +212,6 @@ const config: Config = {
       theme: prismThemes.jettwaveLight,
       darkTheme: prismThemes.jettwaveDark,
       additionalLanguages: ["java"]
-    },
-    algolia: {
-      appId: "GBP8QKXFZG",
-      apiKey: "a9a4c90f61d9bb34e8d54e71acaccd60",
-      indexName: "advantagescope"
     }
   } satisfies Preset.ThemeConfig
 };
