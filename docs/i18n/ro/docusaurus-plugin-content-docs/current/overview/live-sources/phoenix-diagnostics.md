@@ -19,11 +19,11 @@ AdvantageScope suportă streaming live al semnalelor de la dispozitivele Phoenix
 Pentru a vă conecta, selectați „Diagnostice Phoenix” când vă conectați la robot sau simulator din bara de meniu.
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="Captură de ecran cu graficul liniar" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="Captură de ecran cu graficul liniar" />
 
 Fila 📊 [Statistici](/tab-reference/statistics) a AdvantageScope permite de asemenea o analiză avansată a semnalelor Phoenix, cu suport pentru histograme, intervale personalizate și câmpuri derivate pentru măsurători ale erorilor relative și absolute:
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="Captură de ecran cu statistici" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="Captură de ecran cu statistici" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 

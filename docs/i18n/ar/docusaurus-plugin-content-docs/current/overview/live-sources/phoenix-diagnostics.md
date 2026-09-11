@@ -19,11 +19,11 @@ sidebar_position: 2
 للاتصال، حدد "تشخيصات Phoenix" عند الاتصال بالروبوت أو المحاكي من شريط القوائم.
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="لقطة شاشة للرسم البياني الخطي" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="لقطة شاشة للرسم البياني الخطي" />
 
 تتيح علامة تبويب 📊 [إحصائيات](/tab-reference/statistics) في AdvantageScope أيضاً تحليلاً متقدماً لإشارات Phoenix، مع دعم المدرجات التكرارية، والنطاقات المخصصة، والحقول المشتقة لقياسات الخطأ النسبي والمطلق:
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="لقطة شاشة للإحصائيات" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="لقطة شاشة للإحصائيات" />
 
 _تظهر في الصورة أعلاه الواجهة باللغة الإنجليزية._
 

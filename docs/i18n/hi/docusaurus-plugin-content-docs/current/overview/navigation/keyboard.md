@@ -84,5 +84,5 @@ AdvantageScope में कई कीबोर्ड शॉर्टकट श�
 
 समर्थित MacBook मॉडलों पर, टच बार का उपयोग लॉग में स्क्रब करने और नए टैब जोड़ने के लिए किया जा सकता है।
 
-<img src="/img/overview/navigation/keyboard-1.webp" alt="Touch Bar scrubbing interface" />
-<img src="/img/overview/navigation/keyboard-2.webp" alt="Touch Bar new tab interface" />
+<img src="/AdvantageScope/img/overview/navigation/keyboard-1.webp" alt="Touch Bar scrubbing interface" />
+<img src="/AdvantageScope/img/overview/navigation/keyboard-2.webp" alt="Touch Bar new tab interface" />

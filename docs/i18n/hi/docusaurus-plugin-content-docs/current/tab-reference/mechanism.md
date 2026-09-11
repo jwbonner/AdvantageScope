@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 मैकेनिज्म टैब एक या अधिक [Mechanism2d](https://docs.wpilib.org/en/stable/docs/software/dashboards/glass/mech2d-widget.html) ऑब्जेक्ट्स के साथ बनाए गए एक जुड़े हुए (jointed) मैकेनिज्म को प्रदर्शित करता है।
 
-<img src="/img/tab-reference/mechanism-1.webp" alt="Overview of mechanism tab" />
+<img src="/AdvantageScope/img/tab-reference/mechanism-1.webp" alt="Overview of mechanism tab" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -22,7 +22,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 ज़ूम करने के लिए, कर्सर को टाइमलाइन पर रखें और ऊपर या नीचे स्क्रॉल करें। `Shift` दबाए रखते हुए क्लिक और ड्रैग करके भी एक रेंज का चयन किया जा सकता है। क्षैतिज रूप से स्क्रॉल करके (समर्थित उपकरणों पर), या टाइमलाइन पर क्लिक और ड्रैग करके बाएँ और दाएँ जाएँ। लाइव कनेक्ट होने पर, बाईं ओर स्क्रॉल करने से वर्तमान समय से अनलॉक हो जाता है, और पूरी तरह से दाईं ओर स्क्रॉल करने से फिर से वर्तमान समय पर लॉक हो जाता है। रोबोट सक्षम होने की अवधि में ज़ूम करने के लिए `Ctrl+\` दबाएँ।
 
-<img src="/img/tab-reference/timeline.webp" alt="Timeline" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Timeline" />
 
 </details>
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 Fila statistici permite analiza statistică aprofundată a câmpurilor numerice, analizând tendințele generale mai degrabă decât modificările în timp. Câmpurile selectate sunt analizate folosind o histogramă și o varietate de măsurători statistice standard.
 
-<img src="/img/tab-reference/statistics-1.webp" alt="Prezentare generală a filei statistici" />
+<img src="/AdvantageScope/img/tab-reference/statistics-1.webp" alt="Prezentare generală a filei statistici" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 

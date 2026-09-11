@@ -13,7 +13,7 @@ sidebar_position: 5
 
 اسحب الحقل المطلوب إلى العرض الرئيسي لبدء الاستخدام. يمثل كل صف تحديثاً للحقل. بالنسبة لسجلات WPILib، يتم إنشاء صف جديد لكل سطر محفوظ. بالنسبة لسجلات AdvantageKit، يتم إنشاء صف جديد لكل دورة حلقة.
 
-<img src="/img/tab-reference/console-1.webp" alt="عرض وحدة التحكم" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="عرض وحدة التحكم" />
 
 _تظهر في الصورة أعلاه الواجهة باللغة الإنجليزية._
 

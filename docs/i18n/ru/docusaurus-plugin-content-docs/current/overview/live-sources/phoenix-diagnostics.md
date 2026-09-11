@@ -19,11 +19,11 @@ AdvantageScope поддерживает потоковую передачу си
 Для подключения выберите «Диагностика Phoenix» при подключении к роботу или симулятору из панели меню.
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="Скриншот линейного графика" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="Скриншот линейного графика" />
 
 Вкладка 📊 [Статистика](/tab-reference/statistics) в AdvantageScope также позволяет производить расширенный анализ сигналов Phoenix с поддержкой гистограмм, пользовательских диапазонов и производных полей для измерений относительной и абсолютной ошибок:
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="Скриншот статистики" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="Скриншот статистики" />
 
 _Выше показан интерфейс на английском языке._
 

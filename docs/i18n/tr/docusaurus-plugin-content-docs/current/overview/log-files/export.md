@@ -8,7 +8,7 @@ AdvantageScope, log verilerini CSV, WPILOG veya MCAP dosyası olarak dışa akta
 
 Dışa aktarma seçeneklerini görüntülemek için `Dosya` > `Verileri dışa aktar...` seçeneğine tıklayın.
 
-<img src="/img/overview/log-files/export-1.webp" alt="Dışa aktarma seçenekleri" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="Dışa aktarma seçenekleri" />
 
 _Yukarıda İngilizce arayüz gösterilmektedir._
 
@@ -48,4 +48,4 @@ Dışa aktarma sırasında aşağıdaki seçenekler sunulur:
 
 Zaman damgaları "Tüm değişiklikler" olarak ayarlanmış "CSV (Tablo)" formatında AdvantageScope'tan dışa aktarılan örnek bir CSV dosyası aşağıda gösterilmiştir:
 
-<img src="/img/overview/log-files/export-2.webp" alt="CSV tablosu" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="CSV tablosu" />

@@ -14,11 +14,11 @@ Campos e modelos de robôs do FTC são totalmente suportados nativamente.
 - **Sistemas de coordenadas:** Configure o [sistema de coordenadas](/more-features/coordinate-systems) para compatibilidade com as [coordenadas padrão do FTC](https://ftc-docs.firstinspires.org/en/latest/game_specific_resources/field_coordinate_system/field-coordinate-system.html) em qualquer campo. Este sistema de coordenadas é usado por padrão em campos do FTC.
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 ## Formatos suportados {#supported-formats}

@@ -13,7 +13,7 @@ De consoleweergave is ontworpen om één enkel stringveld met consoledata te bek
 
 Sleep het gewenste veld naar de hoofdweergave om te beginnen. Elke rij vertegenwoordigt een update van het veld. Voor WPILib-logs wordt voor elke opgeslagen regel een nieuwe rij aangemaakt. Voor AdvantageKit-logs wordt voor elke loop-cyclus een nieuwe rij aangemaakt.
 
-<img src="/img/tab-reference/console-1.webp" alt="Consoleweergave" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="Consoleweergave" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 

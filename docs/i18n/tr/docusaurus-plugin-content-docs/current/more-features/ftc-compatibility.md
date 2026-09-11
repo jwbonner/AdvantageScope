@@ -14,11 +14,11 @@ FTC sahaları ve robot modelleri yerel olarak tam desteklenmektedir.
 - **Koordinat Sistemleri:** Herhangi bir sahada [standart FTC koordinatları](https://ftc-docs.firstinspires.org/en/latest/game_specific_resources/field_coordinate_system/field-coordinate-system.html) ile uyumluluk için [koordinat sistemini](/more-features/coordinate-systems) yapılandırın. Bu koordinat sistemi, FTC sahalarında varsayılan olarak kullanılır.
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 ## Desteklenen formatlar {#supported-formats}

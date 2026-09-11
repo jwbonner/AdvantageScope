@@ -28,7 +28,7 @@ AdvantageScope prend en charge plusieurs langues pour offrir une expérience loc
 
 Pour modifier la langue d'affichage dans AdvantageScope, ouvrez la fenêtre des préférences en cliquant sur `App` > `Afficher les préférences...` (Windows/Linux) ou `AdvantageScope` > `Paramètres...` (macOS). Sous le paramètre « Langue », vous pouvez choisir parmi la liste des langues prises en charge ou sélectionner « Valeur par défaut du système » pour correspondre automatiquement à la langue de votre système d'exploitation.
 
-<img src="/img/prefs_fr.webp" alt="Diagramme des préférences" height="450" />
+<img src="/AdvantageScope/img/prefs_fr.webp" alt="Diagramme des préférences" height="450" />
 
 ## Clés de journalisation {#logging-keys}
 

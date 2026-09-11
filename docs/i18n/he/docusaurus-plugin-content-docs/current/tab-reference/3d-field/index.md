@@ -5,7 +5,7 @@ import TabItem from '@theme/TabItem';
 
 מגרש ה-3D מציג ויזואליזציה תלת-ממדית של הרובוט והמגרש. ניתן להשתמש בו עם תנוחות 2D רגילות, אך הוא מועיל במיוחד בעת עבודה עם חישובים תלת-ממדיים (כמו איכון מיקום באמצעות AprilTags). מבטי מצלמה מרובים זמינים, כולל יחסית למגרש, יחסית לרובוט, ומבט קבוע. [AdvantageScope XR](advantagescope-xr) מאפשרת לוויזואליזציה של כרטיסייה זו להתבצע באמצעות מציאות רבודה (AR). ציר הזמן מציג מתי הרובוט מאופשר וניתן להשתמש בו כדי לנווט בנתוני היומן.
 
-<img src="/img/tab-reference/3d-field/3d-field-1.webp" alt="דוגמה לכרטיסיית מגרש 3D" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-1.webp" alt="דוגמה לכרטיסיית מגרש 3D" />
 
 _ממשק באנגלית מוצג למעלה._
 
@@ -18,7 +18,7 @@ _ממשק באנגלית מוצג למעלה._
 
 כדי להתקרב/להתרחק (Zoom), יש להציב את הסמן מעל ציר הזמן ולגלול למעלה או למטה. ניתן לבחור טווח גם על ידי לחיצה וגרירה תוך החזקת מקש `Shift`. מעבר שמאלה וימינה מתבצע על ידי גלילה אופקית (במכשירים נתמכים), או על ידי לחיצה וגרירה על ציר הזמן. בעת התחברות חיה, גלילה שמאלה מבטלת את הנעילה מהזמן הנוכחי, וגלילה עד הסוף ימינה נועלת שוב לזמן הנוכחי. לחיצה על `Ctrl+\` תקרב את התצוגה לפרק הזמן שבו הרובוט מאופשר.
 
-<img src="/img/tab-reference/timeline.webp" alt="صיר זמן" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="صיר זמן" />
 
 </details>
 
@@ -97,7 +97,7 @@ packet.put("Pose heading (deg)", 180.0); // מעלות
 
 לוויזואליזציה של נתוני מנגנון שתועדו באמצעות [`Mechanism2d`](https://docs.wpilib.org/he/stable/docs/software/dashboards/glass/mech2d-widget.html), יש להוסיף את שדה המנגנון לאובייקט רובוט או רובוט רפאים קיים. המנגנון מוקרן על מישור XZ או YZ של הרובוט תוך שימוש בתתי-תיבות פשוטות, כפי שמוצג למטה. יש ללחוץ על סמל גלגל השיניים או לחיצה ימנית על שם השדה כדי לעבור בין מישורי XZ ו-YZ. מקור הרובוט ממורכז בקצה התחתון של המנגנון.
 
-<img src="/img/tab-reference/3d-field/3d-field-2.webp" alt="מנגנון 2D" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-2.webp" alt="מנגנון 2D" />
 
 ### רכיבי 3D {#3d-components}
 
@@ -109,7 +109,7 @@ packet.put("Pose heading (deg)", 180.0); // מעלות
 
 כל רכיב ניתן להזזה באופן עצמאי (כמו עגלת מעלית, זרוע, או תפסן). משתמשי AdvantageKit צריכים לשקול שימוש במתודה [`generate3dMechanism()`](https://docs.advantagekit.org/data-flow/supported-types#mechanisms-output-only) להמרת Mechanism2d למערך של אובייקטי Pose3d. למידע נוסף על תצורת רובוטים עם רכיבים, ראו [נכסים מותאמים אישית](/more-features/custom-assets).
 
-<img src="/img/tab-reference/3d-field/3d-field-3.webp" alt="מנגנון 3D" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-3.webp" alt="מנגנון 3D" />
 
 ## אובייקטי אביזר משחק {#game-piece-objects}
 
@@ -129,7 +129,7 @@ packet.put("Pose heading (deg)", 180.0); // מעלות
 
 </details>
 
-<img src="/img/tab-reference/3d-field/3d-field-4.webp" alt="הדמיית טבעת KitBot 2024" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-4.webp" alt="הדמיית טבעת KitBot 2024" />
 
 ## אפשרויות מצלמה {#camera-options}
 
@@ -163,7 +163,7 @@ packet.put("Pose heading (deg)", 180.0); // מעלות
 
 כל מודל רובוט מוגדר עם סט של מצלמות קבועות, כמו מצלמות ראייה ומצלמות נהג. למצלמות אלו מיקומים, יחסי גובה-רוחב ו-FOV קבועים. תצוגות אלו שימושיות לעיתים מזומנות לבדיקת נתוני ראייה או להדמיית תצוגת מצלמת נהג. בדוגמה למטה מוצגת מצלמת נהג.
 
-<img src="/img/tab-reference/3d-field/3d-field-5.webp" alt="מצלמה קבועה" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-5.webp" alt="מצלמה קבועה" />
 
 אם מסופקת תנוחת "דריסת מצלמה", היא מחליפה את תנוחות ברירת המחדל של כל המצלמות הקבועות תוך שמירה על ה-FOV ויחסי גובה-רוחב המוגדרים שלהן. דבר זה מאפשר לקוד הרובוט לספק את המיקום של מצלמה נעה, כמו מצלמה המורכבת על צריח (turret) או מגן ירי.
 
@@ -187,8 +187,8 @@ packet.put("Pose heading (deg)", 180.0); // מעלות
 - **רגיל (מרכז):** ברירת מחדל, רינדור עם תאורה מינימלית ומודלי 3D מופשטים. פועל היטב במרבית המכשירים.
 - **צריכת חשמל נמוכה (מימין):** הורדת קצב הפריימים, הרזולוציה ורמת הפירוט של המודל לצמצום צריכת הסוללה ומתן ביצועים עקביים יותר במכשירים חלשים.
 
-<img src="/img/tab-reference/3d-field/3d-field-6.webp" alt="השוואה בין מצבי עיבוד" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-6.webp" alt="השוואה בין מצבי עיבוד" />
 
 להגדרת מצב הרינדור, יש לפתוח את חלון ההעדפות על ידי לחיצה על `אפליקציה` > `הצגת העדפות...` (Windows/Linux) או `AdvantageScope` > `הגדרות...` (macOS). ההגדרה "מצב תלת-ממד (על סוללה)" ניתנת לשינוי מברירת המחדל לדריסת מצב הרינדור המשמש בלפטופ כאשר אינו בטעינה. לדוגמה, ניתן להשתמש בהגדרה זו לשימור סוללה במהלך תחרות.
 
-<img src="/img/prefs_he.webp" alt="תרשים העדפות" height="450" />
+<img src="/AdvantageScope/img/prefs_he.webp" alt="תרשים העדפות" height="450" />

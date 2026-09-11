@@ -2,7 +2,7 @@
 
 Captura de ecran de mai jos prezintă elementele importante ale ferestrei principale AdvantageScope. Aspectul exact diferă de la un sistem de operare la altul.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Diagramă de navigare" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Diagramă de navigare" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 

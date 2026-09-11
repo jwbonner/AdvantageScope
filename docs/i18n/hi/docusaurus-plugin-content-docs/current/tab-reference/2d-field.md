@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 2D फील्ड टैब फील्ड के मानचित्र पर रोबोट का 2D विज़ुअलाइज़ेशन दिखाता है। यह विज़न लक्ष्यीकरण स्थिति और संदर्भ पोज़ जैसे अतिरिक्त डेटा भी दिखा सकता है।
 
-<img src="/img/tab-reference/2d-field-1.webp" alt="Overview of 2D field tab" />
+<img src="/AdvantageScope/img/tab-reference/2d-field-1.webp" alt="Overview of 2D field tab" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -22,7 +22,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 ज़ूम करने के लिए, कर्सर को टाइमलाइन पर रखें और ऊपर या नीचे स्क्रॉल करें। `Shift` दबाए रखते हुए क्लिक और ड्रैग करके भी एक रेंज का चयन किया जा सकता है। क्षैतिज रूप से स्क्रॉल करके (समर्थित उपकरणों पर), या टाइमलाइन पर क्लिक और ड्रैग करके बाएँ और दाएँ जाएँ। लाइव कनेक्ट होने पर, बाईं ओर स्क्रॉल करने से वर्तमान समय से अनलॉक हो जाता है, और पूरी तरह से दाईं ओर स्क्रॉल करने से फिर से वर्तमान समय पर लॉक हो जाता है। रोबोट सक्षम होने की अवधि में ज़ूम करने के लिए `Ctrl+\` दबाएँ।
 
-<img src="/img/tab-reference/timeline.webp" alt="Timeline" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Timeline" />
 
 </details>
 
@@ -36,7 +36,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 समर्थित ऑब्जेक्ट प्रकारों की पूरी सूची देखने के लिए, `?` आइकन पर क्लिक करें। इस सूची में समर्थित डेटा प्रकार और यह भी शामिल है कि क्या ऑब्जेक्ट्स को चाइल्ड के रूप में जोड़ा जाना चाहिए।
 :::
 
-<img src="/img/tab-reference/2d-field-2.webp" alt="2D field with objects" />
+<img src="/AdvantageScope/img/tab-reference/2d-field-2.webp" alt="2D field with objects" />
 
 ## कैमरा नियंत्रण {#camera-controls}
 

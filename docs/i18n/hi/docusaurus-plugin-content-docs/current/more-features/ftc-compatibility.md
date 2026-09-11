@@ -14,11 +14,11 @@ FTC फील्ड्स और रोबोट मॉडल मूल रू�
 - **कोऑर्डिनेट सिस्टम:** किसी भी फील्ड पर [मानक FTC निर्देशांकों](https://ftc-docs.firstinspires.org/en/latest/game_specific_resources/field_coordinate_system/field-coordinate-system.html) के साथ संगतता के लिए [कोऑर्डिनेट सिस्टम](/more-features/coordinate-systems) कॉन्फ़िगर करें। यह कोऑर्डिनेट सिस्टम FTC फील्ड्स पर डिफ़ॉल्ट रूप से उपयोग किया जाता है।
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 ## समर्थित प्रारूप {#supported-formats}

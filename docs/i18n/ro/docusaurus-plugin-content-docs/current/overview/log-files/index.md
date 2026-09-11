@@ -22,7 +22,7 @@ Fișierele log Hoot pot fi deschise numai după ce sunteți de acord cu [acordul
 Dacă sunt deschise mai multe fișiere simultan, marcajele de timp vor fi aliniate automat. Acest lucru permite compararea ușoară a fișierelor log din mai multe surse. Consultă pagina despre [Marcaje de timp](/more-features/timestamps) pentru detalii despre opțiunile de afișare a marcajelor de timp.
 :::
 
-<img src="/img/overview/log-files/open-file-1.webp" alt="Deschiderea unui log salvat" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-1.webp" alt="Deschiderea unui log salvat" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 
@@ -39,7 +39,7 @@ După deschiderea unui fișier log, loguri suplimentare pot fi adăugate cu ușu
 
 Deschideți fereastra de preferințe dând clic pe `Aplicație` > `Afișează preferințele...` (Windows/Linux) sau `AdvantageScope` > `Setări...` (macOS). Actualizați adresa robotului și folderul de loguri.
 
-<img src="/img/prefs_ro.webp" alt="Diagramă de preferințe" height="450" />
+<img src="/AdvantageScope/img/prefs_ro.webp" alt="Diagramă de preferințe" height="450" />
 </details>
 
 Dați clic pe `Fișier` > `Descărcare loguri...` pentru a deschide fereastra de descărcare. Descărcarea logurilor este suportată pe Systemcore și roboRIO. Odată conectat la robot, logurile disponibile sunt afișate cu cele mai noi în partea de sus. Selectați unul sau mai multe fișiere log de descărcat (shift-clic pentru a selecta un interval sau **cmd/ctrl + A** pentru a selecta tot). Apoi dați clic pe simbolul ↓ și selectați o locație de salvare.
@@ -52,7 +52,7 @@ Dați clic pe `Fișier` > `Descărcare loguri...` pentru a deschide fereastra de
 La descărcarea mai multor fișiere, AdvantageScope omite orice fișiere care există deja în folderul de destinație.
 :::
 
-<img src="/img/overview/log-files/open-file-2.webp" alt="Descărcarea fișierelor log" height="350" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-2.webp" alt="Descărcarea fișierelor log" height="350" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 

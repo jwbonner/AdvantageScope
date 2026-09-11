@@ -6,8 +6,8 @@ draft: true
 
 #
 
-<img src="/img/whats-new/banner-light.webp" className="light-only" />
-<img src="/img/whats-new/banner-dark.webp" className="dark-only" />
+<img src="/AdvantageScope/img/whats-new/banner-light.webp" className="light-only" />
+<img src="/AdvantageScope/img/whats-new/banner-dark.webp" className="dark-only" />
 
 La version 2026 d'AdvantageScope est maintenant disponible! Consultez la [documentation d'installation](/overview/installation) et le [journal complet des modifications](https://github.com/Mechanical-Advantage/AdvantageScope/releases) pour plus de détails. Cette version inclut plusieurs nouvelles fonctionnalités majeures et de nombreuses améliorations dans toute l'application. Bon nombre de ces fonctionnalités sont conçues pour améliorer l'expérience sur les systèmes de contrôle existants tout en préparant une transition en douceur vers [Systemcore](https://community.firstinspires.org/march-updates-on-the-future-robot-controller) lors des prochaines saisons.
 
@@ -27,11 +27,11 @@ Les équipes FTC doivent faire preuve de prudence lors de l'utilisation de logic
 :::
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 Plusieurs bibliothèques de journalisation/télémesure FTC tierces prennent en charge d'autres formats compatibles avec AdvantageScope, tels que WPILOG et RLOG. La documentation de ces bibliothèques se trouve dans les projets respectifs; les développeurs d'AdvantageScope n'approuvent ni ne recommandent aucune solution de journalisation FTC particulière pour une utilisation avec AdvantageScope.
@@ -55,7 +55,7 @@ La capture d'écran ci-dessous montre toutes ces fonctionnalités en action. Not
 
 _Plus d'informations sur la prise en charge des unités se trouvent dans la [documentation](/tab-reference/line-graph/units)._
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="Graphiques avec unités" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="Graphiques avec unités" />
 
 _L'interface en anglais est illustrée ci-dessus._
 
@@ -75,7 +75,7 @@ Le tableau ci-dessous montre la vitesse de transfert mesurée sur les versions 2
 
 La fenêtre de téléchargement prend désormais en charge l'enregistrement des journaux stockés dans des sous-dossiers. Chaque sous-dossier de journaux peut être téléchargé sous forme de groupe, offrant une approche simplifiée pour télécharger les journaux générés par la version 2026 du [Signal Logger](https://v6.docs.ctr-electronics.com/en/stable/docs/api-reference/api-usage/signal-logging.html) de CTRE (qui utilise des sous-dossiers pour contourner l'impossibilité de stocker des données dans un seul fichier journal).
 
-<img src="/img/whats-new/subfolders.webp" alt="Téléchargement des sous-dossiers de journaux" height="450" />
+<img src="/AdvantageScope/img/whats-new/subfolders.webp" alt="Téléchargement des sous-dossiers de journaux" height="450" />
 
 ## 🌈 Nouvelles options de visualisation {#new-visualization-options}
 
@@ -85,7 +85,7 @@ Plusieurs nouvelles options de visualisation sont prises en charge sur le 🗺�
 - Lors de la [visualisation de mécanismes 2D sur le terrain 3D](/tab-reference/3d-field/#2d-mechanisms), les mécanismes peuvent désormais être placés sur le plan YZ en plus du plan XZ. Cela permet une visualisation plus facile de mécanismes complexes avec des mouvements sur plusieurs axes.
 - Le terrain 3D prend désormais en charge l'anticrénelage optionnel pour améliorer la qualité des bords rendus.
 
-<img src="/img/whats-new/field-viz.jpg" alt="Nouvelles visualisations de terrain" />
+<img src="/AdvantageScope/img/whats-new/field-viz.jpg" alt="Nouvelles visualisations de terrain" />
 
 ## 🪵 Prise en charge des journaux REV Robotics CAN {#rev-robotics-can-log-support}
 
@@ -93,19 +93,19 @@ Vous pouvez désormais ouvrir des fichiers `.revlog` produits par le [`StatusLog
 
 URCL et le `StatusLogger` officiel resteront tous deux disponibles pendant la saison 2026 pour assurer une transition en douceur et offrir une parité de fonctionnalités avec les saisons précédentes. Nous aurons plus de détails à partager sur les options de journalisation en 2027 et au-delà à une date ultérieure.
 
-<img src="/img/whats-new/revlog.webp" alt="Visualisation REVLOG" />
+<img src="/AdvantageScope/img/whats-new/revlog.webp" alt="Visualisation REVLOG" />
 
 ## 💿 Importations de fichiers CSV {#csv-file-imports}
 
 Pour une visualisation plus flexible des données produites en dehors des frameworks de journalisation de robot, AdvantageScope inclut désormais une prise en charge de base pour l'importation de fichiers CSV. Consultez la [documentation](/overview/log-files/#csv-formatting) pour plus de détails sur les formats pris en charge et d'autres limitations.
 
-<img src="/img/overview/log-files/export-2.webp" alt="Données CSV" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="Données CSV" />
 
 ## 🤩 Améliorations esthétiques {#aesthetic-improvements}
 
 L'interface utilisateur d'AdvantageScope sur Windows 11 a été mise à jour pour prendre en charge une barre latérale translucide, qui était auparavant exclusive aux versions macOS. Une icône d'application mise à jour est également disponible pour macOS Tahoe basée sur le matériau Liquid Glass d'Apple.
 
-<img src="/img/whats-new/windows-ui.webp" alt="Interface utilisateur Windows" />
+<img src="/AdvantageScope/img/whats-new/windows-ui.webp" alt="Interface utilisateur Windows" />
 
 ## 📋 Menus simplifiés {#streamlined-menus}
 
@@ -116,9 +116,9 @@ La barre de menu et les contrôles associés ont été simplifiés et réorganis
 - La réorganisation de la fenêtre des préférences, ce qui rend les options plus faciles à trouver rapidement.
 
 <div className="image-gallery">
-  <img src="/img/whats-new/menus-1.webp" />
-  <img src="/img/whats-new/menus-2.webp" />
-  <img src="/img/prefs_fr.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-1.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-2.webp" />
+  <img src="/AdvantageScope/img/prefs_fr.webp" />
 </div>
 
 ## 🐛 Améliorations de la stabilité {#stability-improvements}

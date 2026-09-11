@@ -8,11 +8,11 @@ Hoewel Onshape een exportoptie voor glTF bevat, levert dit vaak zeer grote besta
 
 1. Na het openen van het Onshape-bestand klik je met de rechtermuisknop op de hoofdsamenstelling en kies je "Export...":
 
-<img src="/img/more-features/custom-assets/gltf-convert-1.webp" alt="De optie &quot;Export...&quot; selecteren" />
+<img src="/AdvantageScope/img/more-features/custom-assets/gltf-convert-1.webp" alt="De optie &quot;Export...&quot; selecteren" />
 
 2. Zorg er in het pop-upvenster met opties voor dat het exportformaat "STEP" is en klik op "Export":
 
-<img src="/img/more-features/custom-assets/gltf-convert-2.webp" alt="Pop-upvenster met exportopties" />
+<img src="/AdvantageScope/img/more-features/custom-assets/gltf-convert-2.webp" alt="Pop-upvenster met exportopties" />
 
 3. Wacht tot het bestand is geconverteerd en gedownload. Dit kan enkele minuten duren.
 
@@ -22,22 +22,22 @@ Hoewel Onshape een exportoptie voor glTF bevat, levert dit vaak zeer grote besta
 
 2. Open CAD Assistant en selecteer het STEP-bestand dat je wilt converteren:
 
-<img src="/img/more-features/custom-assets/gltf-convert-3.webp" alt="STEP-bestand openen in CAD Assistant" />
+<img src="/AdvantageScope/img/more-features/custom-assets/gltf-convert-3.webp" alt="STEP-bestand openen in CAD Assistant" />
 
 3. Wacht tot het STEP-bestand is geïmporteerd. Dit kan enkele minuten duren.
 
 4. Klik op het pictogram "Save":
 
-<img src="/img/more-features/custom-assets/gltf-convert-4.webp" alt="Op het pictogram &quot;Save&quot; klikken" />
+<img src="/AdvantageScope/img/more-features/custom-assets/gltf-convert-4.webp" alt="Op het pictogram &quot;Save&quot; klikken" />
 
 5. Kies een opslaglocatie en gebruik vervolgens het vervolgkeuzemenu om het exportformaat te wijzigen naar "glb":
 
-<img src="/img/more-features/custom-assets/gltf-convert-5.webp" alt="Het exportformaat wijzigen" />
+<img src="/AdvantageScope/img/more-features/custom-assets/gltf-convert-5.webp" alt="Het exportformaat wijzigen" />
 
 6. Klik op het tandwielpictogram en schakel vervolgens "Merge faces within the same part" in:
 
-<img src="/img/more-features/custom-assets/gltf-convert-6.webp" alt="&quot;Merge faces within the same part&quot; inschakelen" />
+<img src="/AdvantageScope/img/more-features/custom-assets/gltf-convert-6.webp" alt="&quot;Merge faces within the same part&quot; inschakelen" />
 
 7. Klik op het pictogram "Save" en wacht tot de export is voltooid:
 
-<img src="/img/more-features/custom-assets/gltf-convert-7.webp" alt="Op het pictogram &quot;Save&quot; klikken" />
+<img src="/AdvantageScope/img/more-features/custom-assets/gltf-convert-7.webp" alt="Op het pictogram &quot;Save&quot; klikken" />

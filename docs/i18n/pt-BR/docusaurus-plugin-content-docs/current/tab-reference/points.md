@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 A guia de pontos mostra uma visualização 2D de pontos arbitrários. Esta é uma ferramenta muito flexível, permitindo visualizações personalizadas de dados/pipelines de visão, estados de mecanismos, etc.
 
-<img src="/img/tab-reference/points-1.webp" alt="Exemplo de aba de pontos" />
+<img src="/AdvantageScope/img/tab-reference/points-1.webp" alt="Exemplo de aba de pontos" />
 
 _A interface em inglês é exibida acima._
 
@@ -22,7 +22,7 @@ Seções amarelas indicam quando o robô está em autônomo, seções azuis indi
 
 Para dar zoom, posicione o cursor sobre a linha do tempo e role para cima ou para baixo. Um intervalo também pode ser selecionado clicando e arrastando enquanto mantém `Shift` pressionado. Mova para a esquerda e para a direita rolando horizontalmente (em dispositivos suportados) ou clicando e arrastando na linha do tempo. Quando conectado ao vivo, rolar para a esquerda desbloqueia do tempo atual, e rolar totalmente para a direita bloqueia no tempo atual novamente. Pressione `Ctrl+\` para dar zoom no período em que o robô está habilitado.
 
-<img src="/img/tab-reference/timeline.webp" alt="Linha do tempo" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Linha do tempo" />
 
 </details>
 

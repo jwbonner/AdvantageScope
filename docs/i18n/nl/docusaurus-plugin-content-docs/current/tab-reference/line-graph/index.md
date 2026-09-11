@@ -2,7 +2,7 @@
 
 De lijngrafiek is de standaardweergave in AdvantageScope. Het ondersteunt zowel continue (numerieke) als discrete velden.
 
-<img src="/img/tab-reference/line-graph/line-graph-1.webp" alt="Lijngrafiek-demo" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-1.webp" alt="Lijngrafiek-demo" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -22,12 +22,12 @@ Om te beginnen sleep je een veld naar een van de drie secties (links, rechts of 
 
 De kleur en lijnstijl van elk veld kunnen worden aangepast door op het gekleurde pictogram te klikken of met de rechtermuisknop op de veldnaam te klikken. Data van de [persistent alerts](https://docs.wpilib.org/en/latest/docs/software/telemetry/persistent-alerts.html)-API van WPILib kan worden gevisualiseerd door de waarschuwingsgroep toe te voegen als een discreet veld. Hieronder wordt een voorbeeldvisualisatie getoond.
 
-<img src="/img/tab-reference/line-graph/line-graph-2.webp" alt="Visualisatie van waarschuwingen" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-2.webp" alt="Visualisatie van waarschuwingen" />
 
 :::tip
 Om de robotmodus (autonoom, tele-operated of utility) over de grafiek te projecteren, klik je op de drie stippen naast "Discrete velden" en klik je op "Robotmodus tonen".
 
-<img src="/img/tab-reference/line-graph/line-graph-3.webp" alt="Overlay robotmodus" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-3.webp" alt="Overlay robotmodus" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 :::
@@ -36,7 +36,7 @@ _De Engelstalige interface wordt hierboven weergegeven._
 
 Standaard past elke as zijn bereik aan op basis van de zichtbare data. Om automatisch schalen uit te schakelen en het bereik te vergrendelen op het huidige minimum en maximum, klik je op de drie stippen naast de astitel en vervolgens op `As vergrendelen`. Om het bereik handmatig aan te passen, kies je `Bereik bewerken` en voer je de gewenste waarden in.
 
-<img src="/img/tab-reference/line-graph/line-graph-4.webp" alt="Asbereik bewerken" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-4.webp" alt="Asbereik bewerken" height="250" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 

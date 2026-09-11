@@ -8,7 +8,7 @@ AdvantageScope включает гибкую систему экспорта д�
 
 Чтобы просмотреть опции экспорта, нажмите **Файл > Экспортировать данные...**.
 
-<img src="/img/overview/log-files/export-1.webp" alt="Параметры экспорта" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="Параметры экспорта" />
 
 _Выше показан интерфейс на английском языке._
 
@@ -48,4 +48,4 @@ _Это предупреждение **не относится** к логам, 
 
 Пример файла CSV, экспортированного из AdvantageScope, показан ниже в формате «CSV (таблица)» с метками времени, установленными в «Все изменения»:
 
-<img src="/img/overview/log-files/export-2.webp" alt="Таблица CSV" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="Таблица CSV" />

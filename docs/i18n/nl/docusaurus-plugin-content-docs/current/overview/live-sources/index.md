@@ -27,7 +27,7 @@ De titelbalk van het venster toont het IP-adres en de tekst "Zoeken" totdat het 
 
 Wanneer er verbinding is met een live-bron, vergrendelt AdvantageScope standaard alle tabbladen op de huidige tijd. Weergaven zoals de 📉 [Lijngrafiek](/tab-reference/line-graph) en 🔢 [Tabel](/tab-reference/table) scrollen automatisch mee, en weergaven zoals het veld en de joysticks tonen de huidige waarden van elk veld. Als je op de rode pijlknop in de navigatiebalk klikt, schakel je deze vergrendeling in of uit, waardoor het bekijken en herhalen van data uit het verleden mogelijk wordt.
 
-<img src="/img/overview/live-sources/open-live-1.webp" alt="Knop voor vergrendelen/ontgrendelen van live-weergave" />
+<img src="/AdvantageScope/img/overview/live-sources/open-live-1.webp" alt="Knop voor vergrendelen/ontgrendelen van live-weergave" />
 
 :::tip
 Naar links scrollen in de lijngrafiek of tijdlijn ontgrendelt van de huidige tijd, en helemaal naar rechts scrollen vergrendelt weer op de huidige tijd.
@@ -37,7 +37,7 @@ Naar links scrollen in de lijngrafiek of tijdlijn ontgrendelt van de huidige tij
 
 Open het voorkeurenvenster door te klikken op `App` > `Voorkeuren tonen...` (Windows/Linux) of `AdvantageScope` > `Instellingen...` (macOS).
 
-<img src="/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
+<img src="/AdvantageScope/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
 
 ### Robotadres {#robot-address}
 

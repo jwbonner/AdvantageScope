@@ -14,7 +14,7 @@ AdvantageScope biedt drie opties voor het laden van een video:
 2. **YouTube:** Kopieer een YouTube-link naar het klembord en klik op het rode klembordpictogram. Na enkele seconden begint de video te downloaden.
 3. **The Blue Alliance:** Klik op het blauwe TBA-pictogram om de wedstrijdvideo automatisch te laden op basis van het logbestand. Als er meerdere video's beschikbaar zijn, kies dan de te downloaden video uit het pop-upmenu. Deze functie vereist een API-sleutel voor TBA, die kan worden verkregen via [thebluealliance.com/account](https://www.thebluealliance.com/account) en moet worden gekopieerd naar de voorkeurenpagina van AdvantageScope onder "TBA-API-sleutel".
 
-<img src="/img/tab-reference/video-1.webp" alt="Bronkiezer" />
+<img src="/AdvantageScope/img/tab-reference/video-1.webp" alt="Bronkiezer" />
 
 Na het kiezen van een video begint de tijdlijn rechtsonder blauw te worden om de frames aan te geven die in de cache zijn opgeslagen (deze stap is noodzakelijk voor soepel afspelen). Deze functie is uitsluitend bedoeld voor video's van wedstrijdlengte vanwege de vereiste frameconversie.
 
@@ -36,7 +36,7 @@ Wanneer een video initieel wordt geladen en nog niet is gesynchroniseerd met de 
 - \> = vijf seconden vooruitspringen
 - < = vijf seconden terugspringen
 
-<img src="/img/tab-reference/video-2.webp" alt="Videobediening" />
+<img src="/AdvantageScope/img/tab-reference/video-2.webp" alt="Videobediening" />
 
 ## Automatische synchronisatie {#automatic-synchronization}
 
@@ -56,7 +56,7 @@ De cursor op de tijdlijn springt automatisch naar het begin en einde van wedstri
 
 Zodra de video en het logbestand zijn uitgelijnd, klik je op het slotpictogram naast de videotijdlijn (of druk je op **↑ of ↓**). De videobedieningselementen zijn nu uitgeschakeld. Klik nogmaals op het slotpictogram om het afspelen van de video te ontgrendelen.
 
-<img src="/img/tab-reference/video-3.webp" alt="Lock button" />
+<img src="/AdvantageScope/img/tab-reference/video-3.webp" alt="Lock button" />
 
 ## Afspelen {#playback}
 
@@ -71,7 +71,7 @@ Gele gedeelten geven aan wanneer de robot autonoom is, blauwe gedeelten geven aa
 
 Om te zoomen, plaats je de cursor op de tijdlijn en scrol je omhoog of omlaag. Er kan ook een bereik worden geselecteerd door te klikken en te slepen terwijl je `Shift` ingedrukt houdt. Beweeg naar links en rechts door horizontaal te scrollen (op ondersteunde apparaten), of door op de tijdlijn te klikken en te slepen. Wanneer er live verbinding is, ontgrendelt naar links scrollen van de huidige tijd, en helemaal naar rechts scrollen vergrendelt weer op de huidige tijd. Druk op `Ctrl+\` om in te zoomen op de periode waarin de robot is ingeschakeld.
 
-<img src="/img/tab-reference/timeline.webp" alt="Tijdlijn" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Tijdlijn" />
 
 </details>
 
@@ -79,4 +79,4 @@ Om te zoomen, plaats je de cursor op de tijdlijn en scrol je omhoog of omlaag. E
 Desgewenst kan het gezichtsveld (FOV) van de camera in de 3D-veldweergave worden aangepast aan het beeld van de video. Zie voor details "Camera-opties" op de pagina 👀 [3D-veld](/tab-reference/3d-field).
 :::
 
-<img src="/img/tab-reference/video-4.webp" alt="Videosnapshot met odometrie" />
+<img src="/AdvantageScope/img/tab-reference/video-4.webp" alt="Videosnapshot met odometrie" />

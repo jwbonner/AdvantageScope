@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 मेटाडेटा टैब छिपी हुई "/Metadata" तालिका या AdvantageKit के माध्यम से पब्लिश किए गए मानों को दिखाता है। मेटाडेटा कुंजियाँ बाईं ओर प्रदर्शित होती हैं, और कॉलम विभिन्न स्रोतों से डेटा को अलग करते हैं (उदा. AdvantageKit का उपयोग करते समय रियल और रीप्ले)।
 
-<img src="/img/tab-reference/metadata-1.webp" alt="Overview of metadata tab" />
+<img src="/AdvantageScope/img/tab-reference/metadata-1.webp" alt="Overview of metadata tab" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 

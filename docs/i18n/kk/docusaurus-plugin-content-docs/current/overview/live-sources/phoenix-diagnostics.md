@@ -19,11 +19,11 @@ AdvantageScope бағдарламасы **пайдаланушы кодында 
 Қосылу үшін мәзір жолынан роботқа немесе симуляторға қосылған кезде «Phoenix диагностикасы» таңдаңыз.
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="Сызықтық график скриншоты" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="Сызықтық график скриншоты" />
 
 AdvantageScope қолданбасының 📊 [Статистика](/tab-reference/statistics) қойындысы сонымен қатар гистограммаларды, таңдамалы диапазондарды және салыстырмалы әрі абсолютті қателіктерді өлшеуге арналған туынды өрістерді қолдай отырып, Phoenix сигналдарын кеңейтілген талдауға мүмкіндік береді:
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="Статистика скриншоты" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="Статистика скриншоты" />
 
 _Жоғарыда ағылшын тіліндегі интерфейс көрсетілген._
 

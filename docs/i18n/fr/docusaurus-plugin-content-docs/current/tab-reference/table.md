@@ -6,14 +6,14 @@ sidebar_position: 4
 
 La vue en tableau est conçue pour afficher en détail les changements de valeur spécifiques pour un ensemble de champs. Pour ajouter un champ, faites-le glisser vers la vue principale. Pour supprimer un champ, cliquez sur le bouton « X » à côté de son nom. Les champs peuvent être réorganisés en les faisant glisser.
 
-<img src="/img/tab-reference/table-1.webp" alt="Aperçu" />
+<img src="/AdvantageScope/img/tab-reference/table-1.webp" alt="Aperçu" />
 
 _L'interface en anglais est illustrée ci-dessus._
 
 **Une nouvelle ligne est créée pour chaque changement dans l'un des champs affichés.** Les lignes en double ne sont pas affichées. Par exemple, un tableau montrant l'état du robot pendant un match ressemblerait à ceci :
 
-<img src="/img/tab-reference/table-2.webp" alt="Tableau d'état du robot" />
+<img src="/AdvantageScope/img/tab-reference/table-2.webp" alt="Tableau d'état du robot" />
 
 L'heure sélectionnée dans le tableau est synchronisée sur tous les onglets. Cliquez sur une ligne pour la sélectionner, ou survolez une ligne pour prévisualiser ce moment dans n'importe quelle fenêtre détachée visible. Cliquer sur le bouton ↓ permet d'aller à l'heure sélectionnée (ou à l'heure saisie dans la zone). Les horodatages et les saisies de saut sont formatés selon la préférence [Horodatages](/more-features/timestamps).
 
-<img src="/img/tab-reference/table-3.webp" alt="Sauter à un moment" />
+<img src="/AdvantageScope/img/tab-reference/table-3.webp" alt="Sauter à un moment" />

@@ -13,7 +13,7 @@ sidebar_position: 5
 
 יש לגרור את השדה הרצוי לתצוגה הראשית כדי להתחיל. כל שורה מייצגת עדכון לשדה. עבור יומנים של WPILib, נוצרת שורה חדשה עבור כל שורה שנשמרה. עבור יומנים של AdvantageKit, נוצרת שורה חדשה עבור כל מחזור לולאה.
 
-<img src="/img/tab-reference/console-1.webp" alt="תצוגת מסוף" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="תצוגת מסוף" />
 
 _ממשק באנגלית מוצג למעלה._
 

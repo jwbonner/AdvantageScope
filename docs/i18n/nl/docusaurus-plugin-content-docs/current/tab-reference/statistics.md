@@ -6,7 +6,7 @@ sidebar_position: 6
 
 Het tabblad statistieken maakt diepgaande statistische analyse van numerieke velden mogelijk, waarbij algemene trends worden geanalyseerd in plaats van veranderingen in de loop van de tijd. De geselecteerde velden worden geanalyseerd met behulp van een histogram en een verscheidenheid aan standaard statistische meetwaarden.
 
-<img src="/img/tab-reference/statistics-1.webp" alt="Overzicht van tabblad statistieken" />
+<img src="/AdvantageScope/img/tab-reference/statistics-1.webp" alt="Overzicht van tabblad statistieken" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 

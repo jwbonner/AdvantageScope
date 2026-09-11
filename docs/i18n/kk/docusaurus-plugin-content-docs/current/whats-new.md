@@ -6,8 +6,8 @@ draft: true
 
 #
 
-<img src="/img/whats-new/banner-light.webp" className="light-only" />
-<img src="/img/whats-new/banner-dark.webp" className="dark-only" />
+<img src="/AdvantageScope/img/whats-new/banner-light.webp" className="light-only" />
+<img src="/AdvantageScope/img/whats-new/banner-dark.webp" className="dark-only" />
 
 AdvantageScope бағдарламасының 2026 нұсқасы енді қолжетімді! Мәліметтерді [орнату құжаттамасынан](/overview/installation) және [толық өзгерістер журналынан](https://github.com/Mechanical-Advantage/AdvantageScope/releases) қараңыз. Бұл шығарылым бірнеше негізгі жаңа мүмкіндіктерді және қолданба бойынша көптеген жақсартуларды қамтиды. Бұл шығарылымдағы көптеген мүмкіндіктер қолданыстағы басқару жүйелеріндегі жұмыс тәжірибесін жақсартуға және болашақ маусымдарда [Systemcore](https://community.firstinspires.org/march-updates-on-the-future-robot-controller) жүйесіне бірқалыпты өтуді қамтамасыз етуге арналған.
 
@@ -27,11 +27,11 @@ FTC командалары ресми маусымда эксперимента�
 :::
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 FTC журналын жүргізу/телеметрия бойынша бірнеше үшінші тарап кітапханалары AdvantageScope қолданбасымен үйлесімді WPILOG және RLOG сияқты басқа пішімдерді қолдайды. Бұл кітапханалардың құжаттамасын тиісті жобалардан табуға болады; AdvantageScope әзірлеушілері AdvantageScope қолданбасымен пайдалану үшін белгілі бір FTC журналдау шешімін қолдамайды/ұсынмайды.
@@ -55,7 +55,7 @@ AdvantageScope қолданбасының барлық мүмкіндіктер�
 
 _Өлшем бірліктерін қолдау туралы қосымша ақпаратты [құжаттамадан](/tab-reference/line-graph/units) табуға болады._
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="Өлшем бірлігін ескеретін график" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="Өлшем бірлігін ескеретін график" />
 
 _Жоғарыда ағылшын тіліндегі интерфейс көрсетілген._
 
@@ -75,7 +75,7 @@ _Жоғарыда ағылшын тіліндегі интерфейс көрс�
 
 Жүктеп алу терезесі енді ішкі қалталарда сақталған журналдарды сақтауды қолдайды. Журналдардың әрбір ішкі қалтасын топ ретінде жүктеп алуға болады, бұл CTRE компаниясының [Signal Logger](https://v6.docs.ctr-electronics.com/en/stable/docs/api-reference/api-usage/signal-logging.html) (деректерді бір журнал файлында сақтай алмау мәселесін шешу үшін ішкі қалталарды пайдаланатын) 2026 жылғы шығарылымы арқылы жасалған журналдарды жүктеп алудың оңтайландырылған тәсілін ұсынады.
 
-<img src="/img/whats-new/subfolders.webp" alt="Журнал ішкі қалталарын жүктеу" height="450" />
+<img src="/AdvantageScope/img/whats-new/subfolders.webp" alt="Журнал ішкі қалталарын жүктеу" height="450" />
 
 ## 🌈 Жаңа визуализация опциялары {#new-visualization-options}
 
@@ -85,7 +85,7 @@ _Жоғарыда ағылшын тіліндегі интерфейс көрс�
 - [3D алаңында 2D механизмдерді визуализациялау](/tab-reference/3d-field/#2d-mechanisms) кезінде механизмдерді енді XZ жазықтығынан бөлек YZ жазықтығына да орналастыруға болады. Бұл бірнеше осьтерде қозғалатын күрделі механизмдерді визуализациялауды жеңілдетеді.
 - 3D алаңы енді рендерингтелген жиектердің сапасын жақсарту үшін міндетті емес антиалиасингті қолдайды.
 
-<img src="/img/whats-new/field-viz.jpg" alt="Жаңа алаң визуализациялары" />
+<img src="/AdvantageScope/img/whats-new/field-viz.jpg" alt="Жаңа алаң визуализациялары" />
 
 ## 🪵 REV Robotics CAN журналын қолдау {#rev-robotics-can-log-support}
 
@@ -93,19 +93,19 @@ _Жоғарыда ағылшын тіліндегі интерфейс көрс�
 
 Бірқалыпты өтуді қамтамасыз ету және алдыңғы маусымдармен мүмкіндіктер паритетін қамтамасыз ету үшін URCL да, ресми `StatusLogger` да 2026 маусымы бойы қолжетімді болып қала береді. 2027 жылы және одан кейінгі жылдардағы журналдау опциялары туралы қосымша мәліметтерді кейінірек бөлісеміз.
 
-<img src="/img/whats-new/revlog.webp" alt="REVLOG визуализациясы" />
+<img src="/AdvantageScope/img/whats-new/revlog.webp" alt="REVLOG визуализациясы" />
 
 ## 💿 CSV файлдарын импорттау {#csv-file-imports}
 
 Роботтың журналдау фреймворктерінен тыс өндірілген деректерді икемдірек визуализациялау үшін AdvantageScope енді CSV файлдарын импорттаудың негізгі қолдауын қамтиды. Қолдау көрсетілетін пішімдер мен басқа шектеулер туралы қосымша мәліметтерді [құжаттамадан](/overview/log-files/#csv-formatting) қараңыз.
 
-<img src="/img/overview/log-files/export-2.webp" alt="CSV деректері" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="CSV деректері" />
 
 ## 🤩 Эстетикалық жақсартулар {#aesthetic-improvements}
 
 Windows 11 жүйесіндегі AdvantageScope пайдаланушы интерфейсі бұрын тек macOS шығарылымдарына ғана тән болған мөлдір бүйірлік тақтаны қолдау үшін жаңартылды. Сонымен қатар macOS Tahoe жүйесіне арналған Apple компаниясының Liquid Glass материалына негізделген жаңартылған қолданба белгішесі қолжетімді.
 
-<img src="/img/whats-new/windows-ui.webp" alt="Windows пайдаланушы интерфейсі" />
+<img src="/AdvantageScope/img/whats-new/windows-ui.webp" alt="Windows пайдаланушы интерфейсі" />
 
 ## 📋 Оңтайландырылған мәзірлер {#streamlined-menus}
 
@@ -116,9 +116,9 @@ Windows 11 жүйесіндегі AdvantageScope пайдаланушы инте
 - Опцияларды жылдам табуды жеңілдететін қалаулар терезесін қайта ұйымдастыру.
 
 <div className="image-gallery">
-  <img src="/img/whats-new/menus-1.webp" />
-  <img src="/img/whats-new/menus-2.webp" />
-  <img src="/img/prefs_kk.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-1.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-2.webp" />
+  <img src="/AdvantageScope/img/prefs_kk.webp" />
 </div>
 
 ## 🐛 Тұрақтылықты жақсартулар {#stability-improvements}

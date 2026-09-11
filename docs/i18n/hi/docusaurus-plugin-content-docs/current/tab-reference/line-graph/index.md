@@ -2,7 +2,7 @@
 
 लाइन ग्राफ AdvantageScope में डिफ़ॉल्ट दृश्य है। यह निरंतर (संख्यात्मक) और डिस्क्रीट दोनों फील्ड्स का समर्थन करता है।
 
-<img src="/img/tab-reference/line-graph/line-graph-1.webp" alt="Line graph demo" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-1.webp" alt="Line graph demo" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -22,12 +22,12 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 प्रत्येक फील्ड के रंग और रेखा शैली को रंगीन आइकन पर क्लिक करके या फील्ड नाम पर राइट-क्लिक करके कस्टमाइज़ किया जा सकता है। WPILib [लगातार अलर्ट (persistent alerts)](https://docs.wpilib.org/en/latest/docs/software/telemetry/persistent-alerts.html) API से डेटा को अलर्ट समूह को एक डिस्क्रीट फील्ड के रूप में जोड़कर देखा जा सकता है। एक उदाहरण विज़ुअलाइज़ेशन नीचे दिखाया गया है।
 
-<img src="/img/tab-reference/line-graph/line-graph-2.webp" alt="Alerts visualization" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-2.webp" alt="Alerts visualization" />
 
 :::tip
 रोबोट मोड (ऑटोनोमस, टेलीऑपरेटेड, या यूटिलिटी) को ओवरले करने के लिए, "डिस्क्रीट फील्ड्स" के बगल में स्थित तीन बिंदुओं पर क्लिक करें और "रोबोट मोड दिखाएँ" पर क्लिक करें।
 
-<img src="/img/tab-reference/line-graph/line-graph-3.webp" alt="Robot mode overlay" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-3.webp" alt="Robot mode overlay" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 :::
@@ -36,7 +36,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 डिफ़ॉल्ट रूप से, प्रत्येक अक्ष दृश्य डेटा के आधार पर अपनी सीमा को समायोजित करता है। ऑटो-रेंजिंग को अक्षम करने और सीमा को उसके वर्तमान न्यूनतम और अधिकतम पर लॉक करने के लिए, अक्ष शीर्षक के पास तीन बिंदुओं पर क्लिक करें और फिर `एक्सिस लॉक करें` पर क्लिक करें। मैन्युअल रूप से सीमा को समायोजित करने के लिए, `रेंज संपादित करें` चुनें और वांछित मान दर्ज करें।
 
-<img src="/img/tab-reference/line-graph/line-graph-4.webp" alt="Editing axis range" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-4.webp" alt="Editing axis range" height="250" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 

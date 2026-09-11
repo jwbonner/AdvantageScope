@@ -32,13 +32,13 @@ AdvantageScope XR wordt alleen ondersteund op iOS en iPadOS. Er zijn momenteel g
 
 1. Op het hostsysteem **klik je op de knop "XR"** op een willekeurig 3D-veldtabblad. Er kan slechts één XR-hostsessie tegelijk actief zijn, dus als je op deze knop klikt, worden andere actieve sessies onderbroken.
 
-<img src="/img/tab-reference/3d-field/xr-1.webp" alt="XR-knop" height="450" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-1.webp" alt="XR-knop" height="450" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
 2. Het **XR-bedieningsvenster** wordt geopend, met een QR-code en [opties](#options) om de AR-ervaring aan te passen. Om de XR-sessie te annuleren en eventuele clients te ontkoppelen, sluit je het bedieningsvenster.
 
-<img src="/img/tab-reference/3d-field/xr-2.webp" alt="XR-venster" height="350" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-2.webp" alt="XR-venster" height="350" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -74,7 +74,7 @@ Het XR-bedieningsvenster biedt verschillende opties waarmee kan worden geregeld 
 
 AdvantageScope XR vereist geen internetverbinding. Om ervoor te zorgen dat de app offline beschikbaar is, download je AdvantageScope XR uit de App Store via de onderstaande link. Om verbinding te maken met de AdvantageScope-desktopapplicatie scan je de QR-code met de iOS Camera-app of tik je op de knop "Scan" in de AdvantageScope XR-app.
 
-[<img src="/img/tab-reference/3d-field/app-store.svg" alt="App Store" />](https://apps.apple.com/us/app/advantagescope-xr/id6739718081)
+[<img src="/AdvantageScope/img/tab-reference/3d-field/app-store.svg" alt="App Store" />](https://apps.apple.com/us/app/advantagescope-xr/id6739718081)
 
 :::note
 Zelfs wanneer de app zonder internetverbinding wordt uitgevoerd, **moeten de host- en client-apparaten verbonden zijn met hetzelfde netwerk** (zoals een robot, een eigen wifinetwerk of via USB-tethering).

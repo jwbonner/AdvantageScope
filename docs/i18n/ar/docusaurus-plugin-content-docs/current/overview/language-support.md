@@ -28,7 +28,7 @@ import TabItem from '@theme/TabItem';
 
 لتغيير لغة العرض في AdvantageScope، افتح نافذة التفضيلات بالنقر فوق `App` > `إظهار التفضيلات...` (Windows/Linux) أو `AdvantageScope` > `الإعدادات...` (macOS). ضمن إعداد «اللغة»، يمكنك الاختيار من قائمة اللغات المدعومة أو تحديد «الافتراضي للنظام» لمطابقة لغة نظام التشغيل تلقائياً.
 
-<img src="/img/prefs_ar.webp" alt="مخطط التفضيلات" height="450" />
+<img src="/AdvantageScope/img/prefs_ar.webp" alt="مخطط التفضيلات" height="450" />
 
 ## مفاتيح التسجيل {#logging-keys}
 

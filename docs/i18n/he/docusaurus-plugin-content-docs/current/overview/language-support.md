@@ -28,7 +28,7 @@ AdvantageScope תומכת במספר שפות כדי לספק חוויה מות�
 
 כדי לשנות את שפת התצוגה ב-AdvantageScope, פתחו את חלון ההעדפות על ידי לחיצה על `App` > `הצגת העדפות...` (Windows/Linux) או `AdvantageScope` > `הגדרות...` (macOS). תחת ההגדרה "שפה", תוכלו לבחור מתוך רשימת השפות הנתמכות או לבחור ב"ברירת מחדל של המערכת" כדי להתאים אוטומטית לשפת מערכת ההפעלה שלכם.
 
-<img src="/img/prefs_he.webp" alt="דיאגרמת העדפות" height="450" />
+<img src="/AdvantageScope/img/prefs_he.webp" alt="דיאגרמת העדפות" height="450" />
 
 ## מפתחות רישום יומן {#logging-keys}
 

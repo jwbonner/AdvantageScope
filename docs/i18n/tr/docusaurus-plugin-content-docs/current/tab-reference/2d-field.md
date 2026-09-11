@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 2B saha sekmesi, sahanın bir haritası üzerine çakıştırılmış robotun 2B görselleştirmesini gösterir. Ayrıca görüş hedefleme durumu ve referans pozları gibi ek verileri de gösterebilir.
 
-<img src="/img/tab-reference/2d-field-1.webp" alt="2D saha sekmesine genel bakış" />
+<img src="/AdvantageScope/img/tab-reference/2d-field-1.webp" alt="2D saha sekmesine genel bakış" />
 
 _Yukarıda İngilizce arayüz gösterilmektedir._
 
@@ -22,7 +22,7 @@ Sarı bölümler robotun otonomda olduğu zamanları, mavi bölümler robotun te
 
 Yakınlaştırmak için imleci zaman çizelgesinin üzerine getirin ve yukarı veya aşağı kaydırın. `Shift` tuşunu basılı tutarken tıklayıp sürükleyerek bir aralık da seçilebilir. Yatay olarak kaydırarak (desteklenen cihazlarda) veya zaman çizelgesinde tıklayıp sürükleyerek sola ve sağa hareket edin. Canlı bağlandığında sola kaydırmak mevcut zamandan kilidi kaldırır ve en sağa kadar kaydırmak tekrar mevcut zamana kilitler. Robotun etkin olduğu periyoda yakınlaştırmak için `Ctrl+\` tuşlarına basın.
 
-<img src="/img/tab-reference/timeline.webp" alt="Zaman çizelgesi" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Zaman çizelgesi" />
 
 </details>
 
@@ -46,7 +46,7 @@ Başlamak için bir alanı "Pozlar" bölümüne sürükleyin. X düğmesini kull
 Desteklenen nesne türlerinin tam listesini görmek için `?` simgesine tıklayın. Bu liste ayrıca desteklenen veri türlerini ve nesnelerin alt öge olarak eklenmesi gerekip gerekmediğini içerir.
 :::
 
-<img src="/img/tab-reference/2d-field-2.webp" alt="Nesneler içeren 2D saha" />
+<img src="/AdvantageScope/img/tab-reference/2d-field-2.webp" alt="Nesneler içeren 2D saha" />
 
 ## Veri formatı {#data-format}
 

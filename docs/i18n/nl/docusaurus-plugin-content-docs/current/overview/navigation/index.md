@@ -2,7 +2,7 @@
 
 De onderstaande schermafbeelding toont de belangrijkste elementen van het hoofdvenster van AdvantageScope. Het exacte uiterlijk verschilt per besturingssysteem.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Navigatiediagram" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Navigatiediagram" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 

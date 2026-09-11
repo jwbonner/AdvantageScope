@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 元数据选项卡显示发布到隐藏的 “/Metadata” 表或通过 AdvantageKit 发布的值。元数据键显示在左侧，列分隔来自不同来源的数据（例如在使用 AdvantageKit 时的原始运行数据和重放数据）。
 
-<img src="/img/tab-reference/metadata-1.webp" alt="元数据标签页概述" />
+<img src="/AdvantageScope/img/tab-reference/metadata-1.webp" alt="元数据标签页概述" />
 
 _上图所示为英文界面。_
 

@@ -84,5 +84,5 @@ AdvantageScope bevat talrijke sneltoetsen die snellere navigatie mogelijk maken.
 
 Op ondersteunde MacBook-modellen kan de Touch Bar worden gebruikt om door het logbestand te scrubben en nieuwe tabbladen toe te voegen.
 
-<img src="/img/overview/navigation/keyboard-1.webp" alt="Touch Bar scrubbing-interface" />
-<img src="/img/overview/navigation/keyboard-2.webp" alt="Touch Bar nieuw tabblad-interface" />
+<img src="/AdvantageScope/img/overview/navigation/keyboard-1.webp" alt="Touch Bar scrubbing-interface" />
+<img src="/AdvantageScope/img/overview/navigation/keyboard-2.webp" alt="Touch Bar nieuw tabblad-interface" />

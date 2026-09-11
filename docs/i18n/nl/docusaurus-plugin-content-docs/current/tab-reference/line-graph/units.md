@@ -6,7 +6,7 @@ Het tabblad lijngrafiek is eenheidsbewust, wat betekent dat numerieke waarden ee
 - Klik op de drie stippen naast de astitel om **snel over te schakelen naar alternatieve eenheden**. Deze lijst bevat de meest voorkomende eenheden die compatibel zijn met de geselecteerde velden.
 - Schakel **integratie of differentiatie** in ([documentatie](/tab-reference/line-graph/#integration-and-differentiation)) om de nauwkeurige integraal- of afgeleide-eenheden te zien. De basiseenheid kan worden aangepast via het menu om filteren in niet-native eenheden te ondersteunen.
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="Eenheidsbewuste grafieken" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="Eenheidsbewuste grafieken" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -58,6 +58,6 @@ Om handmatige conversie te configureren, klik je op de drie stippen naast de ast
 Om eenheidsconversie snel in of uit te schakelen, klik je op de drie stippen naast de astitel en kies je `Recente voorinstellingen` of `Eenheden resetten`.
 :::
 
-<img src="/img/tab-reference/line-graph/units-2.webp" alt="Eenheidsconversie bewerken" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-2.webp" alt="Eenheidsconversie bewerken" height="250" />
 
 _De Engelstalige interface wordt hierboven weergegeven._

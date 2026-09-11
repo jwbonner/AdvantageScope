@@ -6,7 +6,7 @@
 - **वैकल्पिक इकाइयों पर त्वरित रूप से स्विच करने** के लिए अक्ष शीर्षक के पास तीन बिंदुओं पर क्लिक करें। इस सूची में सबसे आम इकाइयाँ शामिल हैं जो चयनित फील्ड के साथ संगत हैं।
 - सटीक इंटीग्रल या डेरिवेटिव इकाइयों को देखने के लिए **इंटीग्रेशन या डिफरेंशिएशन** ([दस्तावेज़](/tab-reference/line-graph/#integration-and-differentiation)) सक्षम करें। गैर-मूल इकाइयों में फ़िल्टरिंग का समर्थन करने के लिए मेनू का उपयोग करके आधार इकाई को समायोजित किया जा सकता है।
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="Unit-aware graphing" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="Unit-aware graphing" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -56,6 +56,6 @@ Snake-case या space separators का उपयोग करते समय
 इकाई रूपांतरण को तुरंत सक्षम या अक्षम करने के लिए, अक्ष शीर्षक के पास तीन बिंदुओं पर क्लिक करें और `हाल के प्रीसेट्स` या `इकाइयाँ रीसेट करें` चुनें।
 :::
 
-<img src="/img/tab-reference/line-graph/units-2.webp" alt="Editing unit conversion" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-2.webp" alt="Editing unit conversion" height="250" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_

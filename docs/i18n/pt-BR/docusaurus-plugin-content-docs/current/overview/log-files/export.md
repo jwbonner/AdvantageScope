@@ -8,7 +8,7 @@ O AdvantageScope inclui um sistema flexível para exportar dados de log como um 
 
 Para ver as opções de exportação, clique em `Arquivo` > `Exportar dados...`.
 
-<img src="/img/overview/log-files/export-1.webp" alt="Opções de exportação" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="Opções de exportação" />
 
 _A interface em inglês é exibida acima._
 
@@ -48,4 +48,4 @@ As seguintes opções são fornecidas ao exportar:
 
 Um exemplo de arquivo CSV exportado do AdvantageScope é mostrado abaixo, no formato "CSV (Tabela)" com timestamps definidos como "Todas as alterações":
 
-<img src="/img/overview/log-files/export-2.webp" alt="Tabela CSV" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="Tabela CSV" />

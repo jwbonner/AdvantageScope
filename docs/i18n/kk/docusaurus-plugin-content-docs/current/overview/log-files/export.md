@@ -8,7 +8,7 @@ AdvantageScope бағдарламасында журнал деректерін 
 
 Экспорттау параметрлерін қарау үшін `Файл` > `Деректерді экспорттау...` басыңыз.
 
-<img src="/img/overview/log-files/export-1.webp" alt="Экспорттау опциялары" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="Экспорттау опциялары" />
 
 _Жоғарыда ағылшын тіліндегі интерфейс көрсетілген._
 
@@ -48,4 +48,4 @@ _Бұл ескерту AdvantageKit өндірген журналдарға **қ
 
 AdvantageScope бағдарламасынан экспортталған мысал CSV файлы төменде «CSV (Кесте)» форматында, уақыт белгілері «Барлық өзгерістер» ретінде орнатылып көрсетілген:
 
-<img src="/img/overview/log-files/export-2.webp" alt="CSV кестесі" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="CSV кестесі" />

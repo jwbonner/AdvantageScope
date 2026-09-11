@@ -2,7 +2,7 @@
 
 Aşağıdaki ekran görüntüsü, ana AdvantageScope penceresinin önemli öğelerini göstermektedir. Tam görünüm işletim sistemlerine göre değişiklik gösterir.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Gezinme diyagramı" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Gezinme diyagramı" />
 
 _Yukarıda İngilizce arayüz gösterilmektedir._
 

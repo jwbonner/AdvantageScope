@@ -19,11 +19,11 @@ AdvantageScope **उपयोगकर्ता कोड में किसी
 कनेक्ट करने के लिए, मेनू बार से रोबोट या सिम्युलेटर से कनेक्ट करते समय "Phoenix डायग्नोस्टिक्स" चुनें।
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="Line graph screenshot" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="Line graph screenshot" />
 
 AdvantageScope का 📊 [आंकड़े](/tab-reference/statistics) टैब हिस्टोग्राम, कस्टम रेंज, और सापेक्ष और निरपेक्ष त्रुटि मापों के लिए व्युत्पन्न फील्ड्स के समर्थन के साथ Phoenix संकेतों के उन्नत विश्लेषण को भी सक्षम बनाता है:
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="Statistics screenshot" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="Statistics screenshot" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 

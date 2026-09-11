@@ -6,8 +6,8 @@ draft: true
 
 #
 
-<img src="/img/whats-new/banner-light.webp" className="light-only" />
-<img src="/img/whats-new/banner-dark.webp" className="dark-only" />
+<img src="/AdvantageScope/img/whats-new/banner-light.webp" className="light-only" />
+<img src="/AdvantageScope/img/whats-new/banner-dark.webp" className="dark-only" />
 
 Versiunea 2026 a AdvantageScope este acum disponibilă! Consultați [documentația de instalare](/overview/installation) și [jurnalul complet de modificări](https://github.com/Mechanical-Advantage/AdvantageScope/releases) pentru detalii. Această versiune include câteva caracteristici noi majore și numeroase îmbunătățiri în întreaga aplicație. Multe dintre caracteristicile din această versiune sunt concepute pentru a îmbunătăți experiența pe sistemele de control existente, pregătind în același timp o tranziție lină către [Systemcore](https://community.firstinspires.org/march-updates-on-the-future-robot-controller) în sezoanele viitoare.
 
@@ -27,11 +27,11 @@ Echipele FTC ar trebui să fie prudente atunci când utilizează software experi
 :::
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 Mai multe biblioteci terțe de înregistrare/telemetrie FTC acceptă alte formate compatibile cu AdvantageScope, cum ar fi WPILOG și RLOG. Documentația acestor biblioteci poate fi găsită în proiectele respective; dezvoltatorii AdvantageScope nu susțin/recomandă o anumită soluție de logare FTC pentru utilizarea cu AdvantageScope.
@@ -55,7 +55,7 @@ Captura de ecran de mai jos prezintă toate aceste caracteristici în acțiune. 
 
 _Mai multe informații despre suportul pentru unități pot fi găsite în [documentație](/tab-reference/line-graph/units)._
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="Grafice bazate pe unități" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="Grafice bazate pe unități" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 
@@ -75,7 +75,7 @@ Tabelul de mai jos arată viteza de transfer măsurată pe versiunile 2025 și 2
 
 Fereastra de descărcare acceptă acum salvarea logurilor care sunt stocate în subfoldere. Fiecare subfolder de loguri poate fi descărcat ca un grup, oferind o abordare simplificată pentru descărcarea logurilor generate de versiunea 2026 a [Signal Logger](https://v6.docs.ctr-electronics.com/en/stable/docs/api-reference/api-usage/signal-logging.html) de la CTRE (care folosește subfoldere ca o soluție pentru imposibilitatea de a stoca date într-un singur fișier log).
 
-<img src="/img/whats-new/subfolders.webp" alt="Descărcarea subdosarelor de log" height="450" />
+<img src="/AdvantageScope/img/whats-new/subfolders.webp" alt="Descărcarea subdosarelor de log" height="450" />
 
 ## 🌈 Opțiuni noi de vizualizare {#new-visualization-options}
 
@@ -85,7 +85,7 @@ Câteva opțiuni noi de vizualizare sunt suportate pe terenul 🗺️ [Teren 2D]
 - La [vizualizarea mecanicilor 2D pe terenul 3D](/tab-reference/3d-field/#2d-mechanisms), mecanismele pot fi plasate acum pe planul YZ pe lângă planul XZ. Acest lucru permite o vizualizare mai ușoară a mecanicilor complexe cu mișcare pe axe multiple.
 - Terenul 3D suportă acum antialiasing opțional pentru a îmbunătăți calitatea marginilor randate.
 
-<img src="/img/whats-new/field-viz.jpg" alt="Vizualizări noi de teren" />
+<img src="/AdvantageScope/img/whats-new/field-viz.jpg" alt="Vizualizări noi de teren" />
 
 ## 🪵 Suport pentru loguri CAN REV Robotics {#rev-robotics-can-log-support}
 
@@ -93,19 +93,19 @@ Acum puteți deschide fișiere `.revlog` produse de [`StatusLogger`](https://cod
 
 Atât URCL, cât și `StatusLogger`-ul oficial vor rămâne disponibile în timpul sezonului 2026 pentru a asigura o tranziție lină și pentru a oferi paritate de caracteristici cu sezoanele anterioare. Vom avea mai multe detalii de împărtășit despre opțiunile de logare în 2027 și ulterior la o dată viitoare.
 
-<img src="/img/whats-new/revlog.webp" alt="Vizualizare REVLOG" />
+<img src="/AdvantageScope/img/whats-new/revlog.webp" alt="Vizualizare REVLOG" />
 
 ## 💿 Importuri de fișiere CSV {#csv-file-imports}
 
 Pentru o vizualizare mai flexibilă a datelor produse în afara cadrelor de logare ale robotului, AdvantageScope include acum suport de bază pentru importul fișierelor CSV. Consultați [documentația](/overview/log-files/#csv-formatting) pentru mai multe detalii despre formatele suportate și alte limitări.
 
-<img src="/img/overview/log-files/export-2.webp" alt="Date CSV" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="Date CSV" />
 
 ## 🤩 Îmbunătățiri estetice {#aesthetic-improvements}
 
 Interfața de utilizator AdvantageScope pe Windows 11 a fost actualizată pentru a suporta o bară laterală translucidă, care anterior era exclusivă pentru versiunile macOS. O pictogramă actualizată a aplicației este de asemenea disponibilă pentru macOS Tahoe bazată pe materialul Liquid Glass de la Apple.
 
-<img src="/img/whats-new/windows-ui.webp" alt="Interfață utilizator Windows" />
+<img src="/AdvantageScope/img/whats-new/windows-ui.webp" alt="Interfață utilizator Windows" />
 
 ## 📋 Meniuri simplificate {#streamlined-menus}
 
@@ -116,9 +116,9 @@ Bara de meniu și controalele conexe au fost simplificate și reorganizate pentr
 - Reorganizarea ferestrei de preferințe, făcând opțiunile mai ușor de găsit rapid.
 
 <div className="image-gallery">
-  <img src="/img/whats-new/menus-1.webp" />
-  <img src="/img/whats-new/menus-2.webp" />
-  <img src="/img/prefs_ro.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-1.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-2.webp" />
+  <img src="/AdvantageScope/img/prefs_ro.webp" />
 </div>
 
 ## 🐛 Îmbunătățiri ale stabilității {#stability-improvements}

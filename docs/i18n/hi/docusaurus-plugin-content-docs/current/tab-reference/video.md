@@ -14,7 +14,7 @@ AdvantageScope वीडियो लोड करने के लिए ती
 2. **YouTube:** क्लिपबोर्ड पर एक YouTube लिंक कॉपी करें, फिर लाल क्लिपबोर्ड आइकन पर क्लिक करें। कुछ सेकंड के बाद, वीडियो डाउनलोड होना शुरू हो जाएगा।
 3. **द ब्लू एलायंस (The Blue Alliance):** लॉग फ़ाइल के आधार पर मैच वीडियो को स्वचालित रूप से लोड करने के लिए नीले TBA आइकन पर क्लिक करें। यदि एकाधिक वीडियो उपलब्ध हैं, तो पॉपअप मेनू से डाउनलोड करने के लिए वीडियो चुनें। इस सुविधा के लिए TBA के लिए एक API कुंजी की आवश्यकता होती है, जिसे [thebluealliance.com/account](https://www.thebluealliance.com/account) पर प्राप्त किया जाना चाहिए और AdvantageScope प्राथमिकताएं पृष्ठ में "TBA API कुंजी" के तहत कॉपी किया जाना चाहिए।
 
-<img src="/img/tab-reference/video-1.webp" alt="Source chooser" />
+<img src="/AdvantageScope/img/tab-reference/video-1.webp" alt="Source chooser" />
 
 वीडियो चुनने के बाद, नीचे दाईं ओर की टाइमलाइन उन फ़्रेमों को इंगित करने के लिए नीली होने लगती है जिन्हें कैश किया गया है (सुचारू प्लेबैक के लिए यह चरण आवश्यक है)। आवश्यक फ़्रेम रूपांतरण के कारण यह सुविधा केवल मैच-लंबाई वाले वीडियो के लिए अभिप्रेत है।
 
@@ -36,7 +36,7 @@ AdvantageScope को वीडियो फ़ाइलों को संस�
 - \> = पांच सेकंड आगे छोड़ें
 - < = पांच सेकंड पीछे छोड़ें
 
-<img src="/img/tab-reference/video-2.webp" alt="Video controls" />
+<img src="/AdvantageScope/img/tab-reference/video-2.webp" alt="Video controls" />
 
 ## स्वचालित सिंक्रोनाइज़ेशन {#automatic-synchronization}
 
@@ -56,7 +56,7 @@ AdvantageScope को वीडियो फ़ाइलों को संस�
 
 एक बार वीडियो और लॉग संरेखित हो जाने के बाद, वीडियो टाइमलाइन के बगल में स्थित लॉक आइकन पर क्लिक करें (या **↑ या ↓** दबाएँ)। वीडियो नियंत्रण अब अक्षम हैं। वीडियो प्लेबैक को अनलॉक करने के लिए लॉक आइकन पर फिर से क्लिक करें।
 
-<img src="/img/tab-reference/video-3.webp" alt="Lock button" />
+<img src="/AdvantageScope/img/tab-reference/video-3.webp" alt="Lock button" />
 
 ## प्लेबैक {#playback}
 
@@ -71,7 +71,7 @@ AdvantageScope को वीडियो फ़ाइलों को संस�
 
 ज़ूम करने के लिए, कर्सर को टाइमलाइन पर रखें और ऊपर या नीचे स्क्रॉल करें। `Shift` दबाए रखते हुए क्लिक और ड्रैग करके भी एक रेंज का चयन किया जा सकता है। क्षैतिज रूप से स्क्रॉल करके (समर्थित उपकरणों पर), या टाइमलाइन पर क्लिक और ड्रैग करके बाएँ और दाएँ जाएँ। लाइव कनेक्ट होने पर, बाईं ओर स्क्रॉल करने से वर्तमान समय से अनलॉक हो जाता है, और पूरी तरह से दाईं ओर स्क्रॉल करने से फिर से वर्तमान समय पर लॉक हो जाता है। रोबोट सक्षम होने की अवधि में ज़ूम करने के लिए `Ctrl+\` दबाएँ।
 
-<img src="/img/tab-reference/timeline.webp" alt="Timeline" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Timeline" />
 
 </details>
 
@@ -79,4 +79,4 @@ AdvantageScope को वीडियो फ़ाइलों को संस�
 यदि वांछित है, तो वीडियो के रूप से मिलान करने के लिए 3D फील्ड दृश्य में कैमरा FOV को समायोजित किया जा सकता है। विवरण के लिए, 👀 [3D फील्ड](/tab-reference/3d-field) पृष्ठ पर "कैमरा विकल्प" देखें।
 :::
 
-<img src="/img/tab-reference/video-4.webp" alt="Video snapshot with odometry" />
+<img src="/AdvantageScope/img/tab-reference/video-4.webp" alt="Video snapshot with odometry" />

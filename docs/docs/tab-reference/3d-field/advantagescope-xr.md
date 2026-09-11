@@ -32,11 +32,11 @@ AdvantageScope XR is only supported on iOS and iPadOS. There are no immediate pl
 
 1. On the host system, **click the "XR" button** on any 3D field tab. Only one XR host session may be active at the same time, so clicking this button will interrupt any other active sessions.
 
-<img src="/img/tab-reference/3d-field/xr-1.webp" alt="XR button" height="450" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-1.webp" alt="XR button" height="450" />
 
 2. The **XR controls window** will open, with a QR code and [options](#options) to customize the AR experience. To cancel the XR session and disconnect any clients, close the controls window.
 
-<img src="/img/tab-reference/3d-field/xr-2.webp" alt="XR window" height="350" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-2.webp" alt="XR window" height="350" />
 
 3. Scan the QR code using the **built-in camera app** on the client device. No app installation is required.
 4. Tap "AdvantageScope XR" and then "Open" to **start the experience** and connect to the host. If prompted, allow AdvantageScope XR to access the **camera and local network**.
@@ -70,7 +70,7 @@ The XR controls window presents several options that control how the model is di
 
 AdvantageScope XR does not require an internet connection. To ensure that the app is available offline, download AdvantageScope XR from the App Store using the link below. To connect to the AdvantageScope desktop application, scan the QR code using the iOS camera app or tap the "Scan" button in the AdvantageScope XR app.
 
-[<img src="/img/tab-reference/3d-field/app-store.svg" alt="App Store" />](https://apps.apple.com/us/app/advantagescope-xr/id6739718081)
+[<img src="/AdvantageScope/img/tab-reference/3d-field/app-store.svg" alt="App Store" />](https://apps.apple.com/us/app/advantagescope-xr/id6739718081)
 
 :::note
 Even when running without an internet connection, the host and client devices **must be connected to the same network** (such as a robot, custom Wi-Fi network, or via USB tethering).

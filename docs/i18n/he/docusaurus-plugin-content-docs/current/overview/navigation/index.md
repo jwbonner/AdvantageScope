@@ -2,7 +2,7 @@
 
 צילום המסך למטה מציג את הרכיבים החשובים בחלון הראשי של AdvantageScope. המראה המדויק משתנה בין מערכות הפעלה שונות.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="תרשים ניווט" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="תרשים ניווט" />
 
 _ממשק באנגלית מוצג למעלה._
 

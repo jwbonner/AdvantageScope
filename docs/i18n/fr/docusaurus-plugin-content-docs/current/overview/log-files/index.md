@@ -22,7 +22,7 @@ Dans la barre de menu, cliquez sur `Fichier` > `Ouvrir un ou plusieurs journaux.
 Si plusieurs fichiers sont ouverts simultanément, les horodatages seront alignés automatiquement. Cela permet une comparaison facile des fichiers journaux provenant de plusieurs sources. Consultez la page [Horodatages](/more-features/timestamps) pour plus de détails sur les options d'affichage des horodatages.
 :::
 
-<img src="/img/overview/log-files/open-file-1.webp" alt="Ouverture d'un journal enregistré" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-1.webp" alt="Ouverture d'un journal enregistré" />
 
 _L'interface en anglais est illustrée ci-dessus._
 
@@ -39,7 +39,7 @@ Dans la barre de menu, cliquez sur `Fichier` > `Ajouter de nouveaux journaux...`
 
 Ouvrez la fenêtre des préférences en cliquant sur `Application` > `Afficher les préférences...` (Windows/Linux) ou `AdvantageScope` > `Paramètres...` (macOS). Mettez à jour l'adresse du robot et le dossier des journaux.
 
-<img src="/img/prefs_fr.webp" alt="Schéma des préférences" height="450" />
+<img src="/AdvantageScope/img/prefs_fr.webp" alt="Schéma des préférences" height="450" />
 </details>
 
 Cliquez sur `Fichier` > `Télécharger les journaux...` pour ouvrir la fenêtre de téléchargement. Le téléchargement des journaux est pris en charge sur Systemcore et le roboRIO. Une fois connecté au robot, les journaux disponibles sont affichés avec le plus récent en haut. Sélectionnez un ou plusieurs fichiers journaux à télécharger (Maj-clic pour sélectionner une plage ou **cmd/ctrl + A** pour tout sélectionner). Cliquez ensuite sur le symbole ↓ et sélectionnez un emplacement d'enregistrement.
@@ -52,7 +52,7 @@ Le [signal logger](https://v6.docs.ctr-electronics.com/en/stable/docs/api-refere
 Lors du téléchargement de plusieurs fichiers, AdvantageScope ignore ceux qui existent déjà dans le dossier de destination.
 :::
 
-<img src="/img/overview/log-files/open-file-2.webp" alt="Téléchargement des fichiers journaux" height="350" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-2.webp" alt="Téléchargement des fichiers journaux" height="350" />
 
 _L'interface en anglais est illustrée ci-dessus._
 

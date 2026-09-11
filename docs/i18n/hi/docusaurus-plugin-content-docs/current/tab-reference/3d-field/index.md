@@ -5,7 +5,7 @@ import TabItem from '@theme/TabItem';
 
 3D फील्ड रोबोट और फील्ड का 3D विज़ुअलाइज़ेशन दिखाता है। इसका उपयोग नियमित 2D पोज़ के साथ किया जा सकता है, लेकिन 3D गणनाओं (जैसे AprilTags के साथ स्थानीयकरण) के साथ काम करते समय यह विशेष रूप से सहायक होता है। फील्ड रिलेटिव, रोबोट रिलेटिव, और फिक्स्ड सहित कई कैमरा दृश्य उपलब्ध हैं। [AdvantageScope XR](advantagescope-xr) इस टैब को संवर्धित वास्तविकता (augmented reality) का उपयोग करके देखने की अनुमति देता है। टाइमलाइन दिखाती है कि रोबोट कब सक्षम है और इसका उपयोग लॉग डेटा में नेविगेट करने के लिए किया जा सकता है।
 
-<img src="/img/tab-reference/3d-field/3d-field-1.webp" alt="Example of 3D field tab" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-1.webp" alt="Example of 3D field tab" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -18,7 +18,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 ज़ूम करने के लिए, कर्सर को टाइमलाइन पर रखें और ऊपर या नीचे स्क्रॉल करें। `Shift` दबाए रखते हुए क्लिक और ड्रैग करके भी एक रेंज का चयन किया जा सकता है। क्षैतिज रूप से स्क्रॉल करके (समर्थित उपकरणों पर), या टाइमलाइन पर क्लिक और ड्रैग करके बाएँ और दाएँ जाएँ। लाइव कनेक्ट होने पर, बाईं ओर स्क्रॉल करने से वर्तमान समय से अनलॉक हो जाता है, और पूरी तरह से दाईं ओर स्क्रॉल करने से फिर से वर्तमान समय पर लॉक हो जाता है। रोबोट सक्षम होने की अवधि में ज़ूम करने के लिए `Ctrl+\` दबाएँ।
 
-<img src="/img/tab-reference/timeline.webp" alt="Timeline" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Timeline" />
 
 </details>
 
@@ -97,7 +97,7 @@ packet.put("Pose heading (deg)", 180.0); // Degrees
 
 [`Mechanism2d`](https://docs.wpilib.org/en/stable/docs/software/dashboards/glass/mech2d-widget.html) का उपयोग करके लॉग किए गए मैकेनिज्म डेटा को विज़ुअलाइज़ करने के लिए, किसी मौजूदा रोबोट या घोस्ट ऑब्जेक्ट में मैकेनिज्म फील्ड जोड़ें। मैकेनिज्म को सरल बक्से (boxes) का उपयोग करके रोबोट के XZ या YZ तल (plane) पर प्रक्षेपित किया जाता है, जैसा कि नीचे दिखाया गया है। XZ और YZ तलों के बीच स्विच करने के लिए गियर आइकन पर क्लिक करें या फील्ड नाम पर राइट-क्लिक करें। रोबोट का मूल मैकेनिज्म के निचले किनारे पर केंद्रित है।
 
-<img src="/img/tab-reference/3d-field/3d-field-2.webp" alt="2D mechanism" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-2.webp" alt="2D mechanism" />
 
 ### 3D कंपोनेंट्स {#3d-components}
 
@@ -109,7 +109,7 @@ packet.put("Pose heading (deg)", 180.0); // Degrees
 
 प्रत्येक घटक को स्वतंत्र रूप से स्थानांतरित किया जा सकता है (जैसे एक लिफ्ट कैरिज, आर्म, या एंड इफ़ेक्टर)। AdvantageKit उपयोगकर्ताओं को Mechanism2d को Pose3d ऑब्जेक्ट्स के एक एरे में बदलने के लिए [`generate3dMechanism()`](https://docs.advantagekit.org/data-flow/supported-types#mechanisms-output-only) विधि का उपयोग करने पर विचार करना चाहिए। कंपोनेंट्स के साथ रोबोट को कॉन्फ़िगर करने के बारे में अधिक जानकारी के लिए, [कस्टम एसेट्स](/more-features/custom-assets) देखें।
 
-<img src="/img/tab-reference/3d-field/3d-field-3.webp" alt="3D mechanism" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-3.webp" alt="3D mechanism" />
 
 ## गेम पीस ऑब्जेक्ट्स {#game-piece-objects}
 
@@ -129,7 +129,7 @@ AdvantageKit KitBot 2024 उदाहरण प्रोजेक्ट मे�
 
 </details>
 
-<img src="/img/tab-reference/3d-field/3d-field-4.webp" alt="2024 KitBot note visualization" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-4.webp" alt="2024 KitBot note visualization" />
 
 ## कैमरा विकल्प {#camera-options}
 
@@ -163,7 +163,7 @@ AdvantageKit 2023 या उससे पहले के संस्करण 
 
 प्रत्येक रोबोट मॉडल को फिक्स्ड कैमरों के एक सेट के साथ कॉन्फ़िगर किया गया है, जैसे विज़न और ड्राइवर कैमरे। इन कैमरों की निश्चित स्थिति, पहलू अनुपात (aspect ratio) और FOV होते हैं। ये दृश्य अक्सर विज़न डेटा की जांच करने या ड्राइवर कैमरा दृश्य का अनुकरण करने के लिए उपयोगी होते हैं। नीचे दिए गए उदाहरण में, एक ड्राइवर कैमरा दिखाया गया है।
 
-<img src="/img/tab-reference/3d-field/3d-field-5.webp" alt="Fixed camera" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-5.webp" alt="Fixed camera" />
 
 यदि एक "कैमरा ओवरराइड" पोज़ प्रदान किया जाता है, तो यह उनके कॉन्फ़िगर किए गए FOV और पहलू अनुपात को बनाए रखते हुए सभी फिक्स्ड कैमरों के डिफ़ॉल्ट पोज़ को प्रतिस्थापित करता है। यह रोबोट कोड को एक मूविंग कैमरे की स्थिति प्रदान करने की अनुमति देता है, जैसे कि एक बुर्ज (turret) या शूटर हुड पर लगा हुआ।
 
@@ -187,8 +187,8 @@ AdvantageKit 2023 या उससे पहले के संस्करण 
 - **स्टैंडर्ड (केंद्र):** डिफ़ॉल्ट, न्यूनतम प्रकाश व्यवस्था और सरलीकृत 3D मॉडल के साथ रेंडर करें। अधिकांश उपकरणों पर अच्छा चलता है।
 - **लो पावर (दाएं):** बैटरी की खपत कम करने और कम-एंड उपकरणों पर अधिक सुसंगत प्रदर्शन प्रदान करने के लिए फ्रेम दर, रिज़ॉल्यूशन और मॉडल विवरण को कम करें।
 
-<img src="/img/tab-reference/3d-field/3d-field-6.webp" alt="Comparion of rendering modes" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-6.webp" alt="Comparion of rendering modes" />
 
 रेंडरिंग मोड को कॉन्फ़िगर करने के लिए, `ऐप` > `प्राथमिकताएं दिखाएँ...` (Windows/Linux) या `AdvantageScope` > `सेटिंग्स...` (macOS) पर क्लिक करके प्राथमिकताएं विंडो खोलें। चार्ज न होने पर लैपटॉप पर उपयोग किए जाने वाले रेंडरिंग मोड को ओवरराइड करने के लिए "3D मोड (बैटरी)" सेटिंग को डिफ़ॉल्ट से बदला जा सकता है। उदाहरण के लिए, इसका उपयोग प्रतियोगिता में बैटरी बचाने के लिए किया जा सकता है।
 
-<img src="/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
+<img src="/AdvantageScope/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />

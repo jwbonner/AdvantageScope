@@ -6,8 +6,8 @@ draft: true
 
 #
 
-<img src="/img/whats-new/banner-light.webp" className="light-only" />
-<img src="/img/whats-new/banner-dark.webp" className="dark-only" />
+<img src="/AdvantageScope/img/whats-new/banner-light.webp" className="light-only" />
+<img src="/AdvantageScope/img/whats-new/banner-dark.webp" className="dark-only" />
 
 גרסת 2026 של AdvantageScope זמינה כעת! ניתן לעיין ב[תיעוד ההתקנה](/overview/installation) וב[יומן השינויים המלא](https://github.com/Mechanical-Advantage/AdvantageScope/releases) לפרטים נוספים. גרסה זו כוללת מספר תכונות חדשות מרכזיות ושיפורים רבים ברחבי האפליקציה. תכונות רבות בגרסה זו נועדו לשפר את חוויית השימוש במערכות הבקרה הקיימות, תוך הכנת מעבר חלק ל-[Systemcore](https://community.firstinspires.org/march-updates-on-the-future-robot-controller) בעונות הבאות.
 
@@ -27,11 +27,11 @@ draft: true
 :::
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 מספר ספריות תיעוד/טלמטריה של צד שלישי ב-FTC תומכות בפורמטים אחרים התואמים ל-AdvantageScope, כגון WPILOG ו-RLOG. תיעוד של ספריות אלה ניתן למצוא בפרויקטים הרלוונטיים; מפתחי AdvantageScope אינם ממליצים על פתרון רישום יומן מסוים עבור FTC לשימוש עם AdvantageScope.
@@ -55,7 +55,7 @@ AdvantageScope מתוכננת לספק את החוויה הטובה ביותר �
 
 _מידע נוסף על תמיכה ביחידות ניתן למצוא ב[תיעוד](/tab-reference/line-graph/units)._
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="גרפים מודעי-יחידות" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="גרפים מודעי-יחידות" />
 
 _ממשק באנגלית מוצג למעלה._
 
@@ -75,7 +75,7 @@ _ממשק באנגלית מוצג למעלה._
 
 חלון ההורדה תומך כעת בשמירת יומנים המאוחסנים בתתי-תיקיות. כל תת-תיקייה של יומנים ניתנת להורדה כקבוצה, מה שמספק גישה יעילה להורדת יומנים שנוצרו על ידי גרסת 2026 של [Signal Logger](https://v6.docs.ctr-electronics.com/en/stable/docs/api-reference/api-usage/signal-logging.html) מבית CTRE (המשתמשת בתתי-תיקיות כפתרון לעקיפת המגבלה של שמירת נתונים בקובץ יומן יחיד).
 
-<img src="/img/whats-new/subfolders.webp" alt="הורדת תת-תיקיות יומן" height="450" />
+<img src="/AdvantageScope/img/whats-new/subfolders.webp" alt="הורדת תת-תיקיות יומן" height="450" />
 
 ## 🌈 אפשרויות ויזואליזציה חדשות {#new-visualization-options}
 
@@ -85,7 +85,7 @@ _ממשק באנגלית מוצג למעלה._
 - בעת [ויזואליזציית מנגנוני 2D במגרש ה-3D](/tab-reference/3d-field/#2d-mechanisms), ניתן כעת למקם מנגנונים במישור YZ בנוסף למישור XZ. דבר זה מאפשר ויזואליזציה קלה יותר של מנגנונים מורכבים עם תנועה בצירים מרובים.
 - מגרש ה-3D תומך כעת בהחלקת קצוות (anti-aliasing) אופציונלית לשיפור איכות הקצוות המרונדרים.
 
-<img src="/img/whats-new/field-viz.jpg" alt="הדמיות מגרש חדשות" />
+<img src="/AdvantageScope/img/whats-new/field-viz.jpg" alt="הדמיות מגרש חדשות" />
 
 ## 🪵 תמיכה ביומן CAN של REV Robotics {#rev-robotics-can-log-support}
 
@@ -93,19 +93,19 @@ _ממשק באנגלית מוצג למעלה._
 
 הן URCL והן `StatusLogger` הרשמי יישארו זמינים במהלך עונת 2026 כדי להבטיח מעבר חלק ולספק תאימות תכונות לעונות קודמות. יהיו לנו פרטים נוספים לשתף על אפשרויות רישום יומן ב-2027 ואילך במועד מאוחר יותר.
 
-<img src="/img/whats-new/revlog.webp" alt="הדמיית REVLOG" />
+<img src="/AdvantageScope/img/whats-new/revlog.webp" alt="הדמיית REVLOG" />
 
 ## 💿 ייבוא קובצי CSV {#csv-file-imports}
 
 לוויזואליזציה גמישה יותר של נתונים שנוצרו מחוץ למסגרות רישום היומנים של רובוטים, AdvantageScope כוללת כעת תמיכה בסיסית לייבוא קובצי CSV. ניתן לעיין ב[תיעוד](/overview/log-files/#csv-formatting) לפרטים נוספים על פורמטים נתמכים ומגבלות אחרות.
 
-<img src="/img/overview/log-files/export-2.webp" alt="נתוני CSV" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="נתוני CSV" />
 
 ## 🤩 שיפורים אסתטיים {#aesthetic-improvements}
 
 ממשק המשתמש של AdvantageScope ב-Windows 11 עודכן לתמיכה בסרגל צד חצי-שקוף, שהיה רכיב בלעדי לגרסאות macOS בגרסאות קודמות. סמל אפליקציה מעודכן זמין גם עבור macOS Tahoe בהתבסס על חומר Liquid Glass של Apple.
 
-<img src="/img/whats-new/windows-ui.webp" alt="ממשק משתמש של Windows" />
+<img src="/AdvantageScope/img/whats-new/windows-ui.webp" alt="ממשק משתמש של Windows" />
 
 ## 📋 תפריטים יעילים {#streamlined-menus}
 
@@ -116,9 +116,9 @@ _ממשק באנגלית מוצג למעלה._
 - ארגון מחדש של חלון ההעדפות, ההופך את האפשרויות לקלות יותר למציאה מהירה.
 
 <div className="image-gallery">
-  <img src="/img/whats-new/menus-1.webp" />
-  <img src="/img/whats-new/menus-2.webp" />
-  <img src="/img/prefs_he.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-1.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-2.webp" />
+  <img src="/AdvantageScope/img/prefs_he.webp" />
 </div>
 
 ## 🐛 שיפורי יציבות {#stability-improvements}

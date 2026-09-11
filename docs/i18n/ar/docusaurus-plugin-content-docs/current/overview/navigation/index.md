@@ -2,7 +2,7 @@
 
 تظهر لقطة الشاشة أدناه العناصر المهمة في نافذة AdvantageScope الرئيسية. يختلف المظهر الدقيق بين أنظمة التشغيل.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="مخطط التنقل" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="مخطط التنقل" />
 
 _تظهر في الصورة أعلاه الواجهة باللغة الإنجليزية._
 

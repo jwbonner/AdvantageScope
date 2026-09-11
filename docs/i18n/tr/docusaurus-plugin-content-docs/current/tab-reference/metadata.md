@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 Üst veri sekmesi, gizli "/Metadata" tablosuna veya AdvantageKit aracılığıyla yayınlanan değerleri gösterir. Üst veri anahtarları solda görüntülenir ve sütunlar farklı kaynaklardan (örneğin AdvantageKit kullanılırken gerçek ve yeniden oynatma) gelen verileri ayırır.
 
-<img src="/img/tab-reference/metadata-1.webp" alt="Üst veri sekmesine genel bakış" />
+<img src="/AdvantageScope/img/tab-reference/metadata-1.webp" alt="Üst veri sekmesine genel bakış" />
 
 _Yukarıda İngilizce arayüz gösterilmektedir._
 

@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 L'onglet métadonnées montre les valeurs publiées dans la table cachée « /Metadata » ou via AdvantageKit. Les clés de métadonnées sont affichées à gauche, et les colonnes séparent les données provenant de différentes sources (par ex. réel et relecture lors de l'utilisation d'AdvantageKit).
 
-<img src="/img/tab-reference/metadata-1.webp" alt="Aperçu de l'onglet métadonnées" />
+<img src="/AdvantageScope/img/tab-reference/metadata-1.webp" alt="Aperçu de l'onglet métadonnées" />
 
 _L'interface en anglais est illustrée ci-dessus._
 

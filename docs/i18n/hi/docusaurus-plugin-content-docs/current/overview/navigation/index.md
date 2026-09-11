@@ -2,7 +2,7 @@
 
 नीचे दिया गया स्क्रीनशॉट मुख्य AdvantageScope विंडो के महत्वपूर्ण तत्वों को दिखाता है। ऑपरेटिंग सिस्टम के बीच सटीक रूप भिन्न होता है।
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Navigation diagram" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Navigation diagram" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 

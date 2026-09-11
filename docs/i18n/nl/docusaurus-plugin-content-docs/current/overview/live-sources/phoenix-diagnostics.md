@@ -19,11 +19,11 @@ AdvantageScope ondersteunt live-streaming van signalen van Phoenix 6-apparaten *
 Om verbinding te maken, selecteer je "Phoenix-diagnostiek" bij het verbinden met de robot of simulator via de menubalk.
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="Schermafbeelding van lijngrafiek" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="Schermafbeelding van lijngrafiek" />
 
 Het tabblad 📊 [Statistieken](/tab-reference/statistics) van AdvantageScope maakt ook geavanceerde analyse van Phoenix-signalen mogelijk, met ondersteuning voor histogrammen, aangepaste bereiken en afgeleide velden voor relatieve en absolute foutmetingen:
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="Schermafbeelding van statistieken" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="Schermafbeelding van statistieken" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 

@@ -8,7 +8,7 @@ AdvantageScope כוללת מערכת גמישה לייצוא נתוני יומן
 
 לצפייה באפשרויות הייצוא, יש ללחוץ על `קובץ` > `ייצוא נתונים...`.
 
-<img src="/img/overview/log-files/export-1.webp" alt="אפשרויות ייצוא" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="אפשרויות ייצוא" />
 
 _ממשק באנגלית מוצג למעלה._
 
@@ -48,4 +48,4 @@ _אזהרה זו **אינה חלה** על יומנים שנוצרו על ידי 
 
 דוגמה לקובץ CSV שמיוצא מ-AdvantageScope מוצגת למטה, בפורמט "CSV (טבלה)" עם חותמות זמן המוגדרות ל-"כל השינויים":
 
-<img src="/img/overview/log-files/export-2.webp" alt="טבלת CSV" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="טבלת CSV" />

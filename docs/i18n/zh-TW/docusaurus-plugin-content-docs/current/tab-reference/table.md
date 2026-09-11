@@ -6,14 +6,14 @@ sidebar_position: 4
 
 表格視圖旨在詳細顯示一組欄位的具體數值變更。要新增欄位，請將其拖曳到檢視器面板。要刪除欄位，請點擊其名稱旁邊的「X」按鈕。可以透過點擊並拖曳來重新排列欄位。
 
-<img src="/img/tab-reference/table-1.webp" alt="概述" />
+<img src="/AdvantageScope/img/tab-reference/table-1.webp" alt="概述" />
 
 _上圖所示為英文介面。_
 
 **會為任何顯示欄位中的每次變更建立一個新列。** 重複列不會顯示。例如，顯示比賽期間機器人狀態的表格如下所示：
 
-<img src="/img/tab-reference/table-2.webp" alt="機器人狀態表格" />
+<img src="/AdvantageScope/img/tab-reference/table-2.webp" alt="機器人狀態表格" />
 
 表格中選取的時間在所有分頁中保持同步。點擊某一列可選取它，或將游標懸停在某一列上可在任何可見的快顯視窗中預覽它。點擊 ↓ 按鈕會跳至選取的時間（或在方塊中輸入的時間）。時間戳記與跳轉輸入會根據 [時間戳記](/more-features/timestamps) 偏好設定進行格式化。
 
-<img src="/img/tab-reference/table-3.webp" alt="跳至某一時間" />
+<img src="/AdvantageScope/img/tab-reference/table-3.webp" alt="跳至某一時間" />

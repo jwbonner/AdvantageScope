@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 Het tabblad metadata toont waarden die zijn gepubliceerd naar de verborgen tabel "/Metadata" of via AdvantageKit. De metadatasleutels worden aan de linkerkant weergegeven, en de kolommen scheiden data van verschillende bronnen (bijv. echt en herhaling bij gebruik van AdvantageKit).
 
-<img src="/img/tab-reference/metadata-1.webp" alt="Overzicht van tabblad metadata" />
+<img src="/AdvantageScope/img/tab-reference/metadata-1.webp" alt="Overzicht van tabblad metadata" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 

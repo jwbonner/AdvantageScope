@@ -13,7 +13,7 @@ La vista de la consola está diseñada para ver un solo campo de cadena con dato
 
 Arrastra el campo deseado a la vista principal para comenzar. Cada fila representa una actualización del campo. Para los registros de WPILib, se crea una nueva fila por cada línea guardada. Para los registros de AdvantageKit, se crea una nueva fila por cada ciclo de bucle.
 
-<img src="/img/tab-reference/console-1.webp" alt="Vista de consola" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="Vista de consola" />
 
 _En la imagen de arriba se muestra la interfaz en inglés._
 

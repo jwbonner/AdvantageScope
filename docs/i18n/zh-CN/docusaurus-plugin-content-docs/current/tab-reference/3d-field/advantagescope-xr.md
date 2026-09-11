@@ -32,13 +32,13 @@ AdvantageScope XR 仅在 iOS 和 iPadOS 上受到支持。目前没有支持其�
 
 1. 在主机系统上，在任何 3D 场地选项卡上 **点击 “XR” 按钮**。同一时间只能激活一个 XR 主机会话，因此点击此按钮将打断任何其他活动会话。
 
-<img src="/img/tab-reference/3d-field/xr-1.webp" alt="XR 按钮" height="450" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-1.webp" alt="XR 按钮" height="450" />
 
 _上图所示为英文界面。_
 
 2. 将打开 **XR 控制窗口**，其中包含二维码和自定义 AR 体验的 [选项](#options)。要取消 XR 会话并断开所有客户端，请关闭控制窗口。
 
-<img src="/img/tab-reference/3d-field/xr-2.webp" alt="XR 窗口" height="350" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-2.webp" alt="XR 窗口" height="350" />
 
 _上图所示为英文界面。_
 
@@ -74,7 +74,7 @@ XR 控制窗口提供了几个控制模型在增强现实中如何显示的选�
 
 AdvantageScope XR 不需要互联网连接。为确保应用可以离线使用，请使用下方链接从 App Store 下载 AdvantageScope XR。要连接到 AdvantageScope 桌面应用程序，请使用 iOS 相机应用扫描二维码，或在 AdvantageScope XR 应用中轻点“扫描”按钮。
 
-[<img src="/img/tab-reference/3d-field/app-store.svg" alt="App Store" />](https://apps.apple.com/us/app/advantagescope-xr/id6739718081)
+[<img src="/AdvantageScope/img/tab-reference/3d-field/app-store.svg" alt="App Store" />](https://apps.apple.com/us/app/advantagescope-xr/id6739718081)
 
 :::note
 即使在没有互联网连接的情况下运行，主机和客户端设备 **也必须连接到同一个网络**（例如机器人、自定义 Wi-Fi 网络或通过 USB 网络共享）。

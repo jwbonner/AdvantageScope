@@ -18,22 +18,22 @@ Alle opties voor het coördinatenstelsel zijn compatibel met zowel FRC- als FTC-
 
 De oorsprong bevindt zich in het midden van het veld, waarbij de +X-as van de rode alliantiemuur af wijst, zoals hieronder weergegeven. **Dit is het standaard coördinatenstelsel voor FRC-velden vanaf 2027 en FTC-velden vanaf 2027-2028.**
 
-<img src="/img/more-features/coordinate-system-center-red.webp" alt="Coördinatenstelsel Midden/rood" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-center-red.webp" alt="Coördinatenstelsel Midden/rood" />
 
 ## Blauwe muur {#blue-wall}
 
 De oorsprong bevindt zich in de uiterst rechtse hoek van de blauwe alliantiemuur, waarbij de +X-as naar de rode alliantiemuur wijst, zoals hieronder weergegeven. **Dit is het standaard coördinatenstelsel voor FRC-velden van 2023 tot 2026.**
 
-<img src="/img/more-features/coordinate-system-blue-wall.webp" alt="Coördinatenstelsel Blauwe muur" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-blue-wall.webp" alt="Coördinatenstelsel Blauwe muur" />
 
 ## Alliantiemuur {#alliance-wall}
 
 De oorsprong bevindt zich in de uiterst rechtse hoek van de alliantiemuur voor de _huidige alliantie van de robot_, waarbij de +X-as naar de tegenoverliggende alliantiemuur wijst, zoals hieronder weergegeven. **Dit is het standaard coördinatenstelsel voor FRC in 2022.**
 
-<img src="/img/more-features/coordinate-system-alliance-wall.webp" alt="Coördinatenstelsel Alliantiemuur" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-alliance-wall.webp" alt="Coördinatenstelsel Alliantiemuur" />
 
 ## Midden/geroteerd {#center-rotated}
 
 De oorsprong bevindt zich in het midden van het veld, waarbij de +X-as naar rechts wijst vanuit het perspectief van de rode alliantiemuur, zoals hieronder weergegeven. **Dit is het standaard coördinatenstelsel voor FTC-velden van 2024-2025 tot 2026-2027.**
 
-<img src="/img/more-features/coordinate-system-center-rotated.webp" alt="Coördinatenstelsel Midden/geroteerd" height="400" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-center-rotated.webp" alt="Coördinatenstelsel Midden/geroteerd" height="400" />

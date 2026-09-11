@@ -2,7 +2,7 @@
 
 Төмендегі скриншот AdvantageScope негізгі терезесінің маңызды элементтерін көрсетеді. Нақты сыртқы түрі операциялық жүйелерге байланысты ерекшеленеді.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Навигация диаграммасы" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Навигация диаграммасы" />
 
 _Жоғарыда ағылшын тіліндегі интерфейс көрсетілген._
 

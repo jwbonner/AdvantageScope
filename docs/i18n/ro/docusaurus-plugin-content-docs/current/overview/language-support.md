@@ -28,7 +28,7 @@ AdvantageScope suportă mai multe limbi pentru a oferi o experiență localizat�
 
 Pentru a schimba limba de afișare în AdvantageScope, deschide fereastra de preferințe făcând clic pe `App` > `Afișează preferințele...` (Windows/Linux) sau `AdvantageScope` > `Setări...` (macOS). La setarea „Limbă”, poți alege din lista de limbi suportate sau poți selecta „Implicit sistem” pentru a se potrivi automat cu limba sistemului tău de operare.
 
-<img src="/img/prefs_ro.webp" alt="Diagrama preferințelor" height="450" />
+<img src="/AdvantageScope/img/prefs_ro.webp" alt="Diagrama preferințelor" height="450" />
 
 ## Chei de jurnalizare {#logging-keys}
 

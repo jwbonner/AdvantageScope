@@ -6,7 +6,7 @@ La pestaña de gráfico de líneas tiene reconocimiento de unidades, lo que sign
 - Haz clic en los tres puntos cerca del título del eje para **cambiar rápidamente a unidades alternativas**. Esta lista incluye las unidades más comunes que son compatibles con los campos seleccionados.
 - Habilita **la integración o diferenciación** ([documentación](/tab-reference/line-graph/#integration-and-differentiation)) para ver las unidades precisas de la integral o derivada. La unidad base se puede ajustar utilizando el menú para admitir el filtrado en unidades no nativas.
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="Gráficos con reconocimiento de unidades" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="Gráficos con reconocimiento de unidades" />
 
 _En la imagen de arriba se muestra la interfaz en inglés._
 
@@ -58,6 +58,6 @@ Para configurar la conversión manual, haz clic en los tres puntos cerca del tí
 Para habilitar o deshabilitar rápidamente la conversión de unidades, haz clic en los tres puntos cerca del título del eje y elige `Ajustes preestablecidos recientes` o `Restablecer unidades`.
 :::
 
-<img src="/img/tab-reference/line-graph/units-2.webp" alt="Edición de conversión de unidades" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-2.webp" alt="Edición de conversión de unidades" height="250" />
 
 _En la imagen de arriba se muestra la interfaz en inglés._

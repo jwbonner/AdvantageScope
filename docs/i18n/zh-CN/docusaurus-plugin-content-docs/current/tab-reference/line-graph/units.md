@@ -6,7 +6,7 @@
 - 点击轴标题附近的三个点可 **快速切换到其他单位**。此列表包含与所选字段兼容的最常见单位。
 - 启用 **积分或求导**（[文档](/tab-reference/line-graph/#integration-and-differentiation)）以查看准确的积分或导数单位。基准单位可以使用菜单进行调整，以支持以非原生单位进行过滤。
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="单位感知图表" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="单位感知图表" />
 
 _上图所示为英文界面。_
 
@@ -56,6 +56,6 @@ WPILib 在记录 `Measure` 对象时会自动包含单位元数据。此外，Ad
 要快速启用或禁用单位转换，请点击轴标题附近的三个点，然后选择 `最近预设` 或 `重置单位`。
 :::
 
-<img src="/img/tab-reference/line-graph/units-2.webp" alt="编辑单位转换" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-2.webp" alt="编辑单位转换" height="250" />
 
 _上图所示为英文界面。_

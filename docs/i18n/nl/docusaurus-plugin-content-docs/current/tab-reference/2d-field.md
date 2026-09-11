@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 Het tabblad 2D-veld toont een 2D-visualisatie van de robot over een kaart van het veld heen. Het kan ook extra data tonen zoals de status van vision-targeting en referentieposes.
 
-<img src="/img/tab-reference/2d-field-1.webp" alt="Overzicht van tabblad 2D-veld" />
+<img src="/AdvantageScope/img/tab-reference/2d-field-1.webp" alt="Overzicht van tabblad 2D-veld" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -22,7 +22,7 @@ Gele gedeelten geven aan wanneer de robot autonoom is, blauwe gedeelten geven aa
 
 Om te zoomen, plaats je de cursor op de tijdlijn en scrol je omhoog of omlaag. Er kan ook een bereik worden geselecteerd door te klikken en te slepen terwijl je `Shift` ingedrukt houdt. Beweeg naar links en rechts door horizontaal te scrollen (op ondersteunde apparaten), of door op de tijdlijn te klikken en te slepen. Wanneer er live verbinding is, ontgrendelt naar links scrollen van de huidige tijd, en helemaal naar rechts scrollen vergrendelt weer op de huidige tijd. Druk op `Ctrl+\` om in te zoomen op de periode waarin de robot is ingeschakeld.
 
-<img src="/img/tab-reference/timeline.webp" alt="Tijdlijn" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Tijdlijn" />
 
 </details>
 
@@ -46,7 +46,7 @@ Om te beginnen sleep je een veld naar de sectie "Poses". Verwijder een object me
 Klik op het `?`-pictogram om een volledige lijst van ondersteunde objecttypen te zien. Deze lijst bevat ook de ondersteunde datatypen en geeft aan of de objecten als onderliggend element moeten worden toegevoegd.
 :::
 
-<img src="/img/tab-reference/2d-field-2.webp" alt="2D-veld met objecten" />
+<img src="/AdvantageScope/img/tab-reference/2d-field-2.webp" alt="2D-veld met objecten" />
 
 ## Dataformaat {#data-format}
 

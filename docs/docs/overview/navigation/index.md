@@ -2,7 +2,7 @@
 
 The screenshot below shows the important elements of the main AdvantageScope window. The exact appearance differs between operating systems.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Navigation diagram" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Navigation diagram" />
 
 - The red section is the [sidebar](#sidebar), which lists available fields.
 - The brown section is the [tab bar](#tab-bar), which controls the app and is used for switching between views.

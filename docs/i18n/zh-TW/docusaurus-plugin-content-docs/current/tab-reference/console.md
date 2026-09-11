@@ -13,7 +13,7 @@ sidebar_position: 5
 
 將所需的欄位拖曳到檢視器面板即可開始。每列代表欄位的一次更新。對於 WPILib 日誌，會為每個儲存的行建立一個新列。對於 AdvantageKit 日誌，會為每個迴圈週期建立一個新列。
 
-<img src="/img/tab-reference/console-1.webp" alt="主控台視圖" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="主控台視圖" />
 
 _上圖所示為英文介面。_
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 आंकड़े टैब संख्यात्मक फील्ड्स के गहन सांख्यिकीय विश्लेषण की अनुमति देता है, जो समय के साथ परिवर्तनों के बजाय समग्र प्रवृत्तियों का विश्लेषण करता है। चयनित फील्ड्स का विश्लेषण हिस्टोग्राम और विभिन्न मानक सांख्यिकीय उपायों का उपयोग करके किया जाता है।
 
-<img src="/img/tab-reference/statistics-1.webp" alt="Overview of statistics tab" />
+<img src="/AdvantageScope/img/tab-reference/statistics-1.webp" alt="Overview of statistics tab" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 

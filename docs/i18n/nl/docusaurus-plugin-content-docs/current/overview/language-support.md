@@ -28,7 +28,7 @@ AdvantageScope ondersteunt meerdere talen om een gelokaliseerde ervaring te bied
 
 Om de weergavetaal in AdvantageScope te wijzigen, open je het voorkeurenvenster door te klikken op `App` > `Voorkeuren tonen...` (Windows/Linux) of `AdvantageScope` > `Instellingen...` (macOS). Onder de instelling "Taal" kun je kiezen uit de lijst met ondersteunde talen of "Systeemstandaard" selecteren om automatisch de taal van je besturingssysteem over te nemen.
 
-<img src="/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
+<img src="/AdvantageScope/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
 
 ## Logsleutels {#logging-keys}
 

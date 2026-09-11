@@ -13,7 +13,7 @@ sidebar_position: 5
 
 आरंभ करने के लिए वांछित फील्ड को मुख्य दृश्य में खींचें। प्रत्येक पंक्ति फील्ड के अपडेट का प्रतिनिधित्व करती है। WPILib लॉग के लिए, प्रत्येक सहेजी गई पंक्ति के लिए एक नई पंक्ति बनाई जाती है। AdvantageKit लॉग के लिए, प्रत्येक लूप चक्र के लिए एक नई पंक्ति बनाई जाती है।
 
-<img src="/img/tab-reference/console-1.webp" alt="Console view" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="Console view" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 

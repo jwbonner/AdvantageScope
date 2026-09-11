@@ -8,7 +8,7 @@
 
 لعرض خيارات التصدير، انقر فوق `ملف` > `تصدير البيانات...`.
 
-<img src="/img/overview/log-files/export-1.webp" alt="خيارات التصدير" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="خيارات التصدير" />
 
 _تظهر في الصورة أعلاه الواجهة باللغة الإنجليزية._
 
@@ -48,4 +48,4 @@ _هذا التحذير **لا ينطبق** على السجلات المُنتج�
 
 يظهر مثال لملف CSV تم تصديره من AdvantageScope أدناه، بتنسيق "CSV (جدول)« مع ضبط الطوابع الزمنية على »جميع التغييرات":
 
-<img src="/img/overview/log-files/export-2.webp" alt="جدول CSV" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="جدول CSV" />

@@ -6,7 +6,7 @@
 - 點擊軸標題附近的三個點，以**快速切換至替代單位**。此清單包含與選取欄位相容的最常見單位。
 - 啟用**積分或微分**（[文件](/tab-reference/line-graph/#integration-and-differentiation)）以查看精確的積分或導數單位。可以使用選單調整基礎單位以支援在非原生單位中進行篩選。
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="單位感知圖表" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="單位感知圖表" />
 
 _上圖所示為英文介面。_
 
@@ -59,6 +59,6 @@ WPILib 與 AdvantageKit 皆支援發布單位中繼資料：
 要快速啟用或停用單位轉換，請點擊軸標題附近的三個點，然後選擇 `最近的預設` 或 `重設單位`。
 :::
 
-<img src="/img/tab-reference/line-graph/units-2.webp" alt="編輯單位轉換" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-2.webp" alt="編輯單位轉換" height="250" />
 
 _上圖所示為英文介面。_

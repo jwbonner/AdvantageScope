@@ -27,7 +27,7 @@ DS एप्लिकेशन के समान डिवाइस पर च
 
 लाइव स्रोत से कनेक्ट होने पर, AdvantageScope डिफ़ॉल्ट रूप से सभी टैब को वर्तमान समय पर लॉक कर देता है। 📉 [लाइन ग्राफ](/tab-reference/line-graph) और 🔢 [टेबल](/tab-reference/table) जैसे दृश्य ऑटो-स्क्रॉल होते हैं, और फील्ड और जॉयस्टिक जैसे दृश्य प्रत्येक फील्ड के वर्तमान मान प्रदर्शित करते हैं। नेविगेशन बार में लाल तीर बटन पर क्लिक करने से यह लॉक टॉगल होता है, जिससे पिछले डेटा को देखने और रीप्ले करने की सुविधा मिलती है।
 
-<img src="/img/overview/live-sources/open-live-1.webp" alt="Live lock/unlock button" />
+<img src="/AdvantageScope/img/overview/live-sources/open-live-1.webp" alt="Live lock/unlock button" />
 
 :::tip
 लाइन ग्राफ़ या टाइमलाइन में बाईं ओर स्क्रॉल करने से वर्तमान समय से अनलॉक हो जाता है, और पूरी तरह से दाईं ओर स्क्रॉल करने से फिर से वर्तमान समय पर लॉक हो जाता है।
@@ -37,7 +37,7 @@ DS एप्लिकेशन के समान डिवाइस पर च
 
 `ऐप` > `प्राथमिकताएं दिखाएँ...` (Windows/Linux) या `AdvantageScope` > `सेटिंग्स...` (macOS) पर क्लिक करके प्राथमिकताएं विंडो खोलें।
 
-<img src="/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
+<img src="/AdvantageScope/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
 
 ### रोबोट का पता {#robot-address}
 

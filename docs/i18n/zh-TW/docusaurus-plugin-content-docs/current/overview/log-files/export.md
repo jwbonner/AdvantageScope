@@ -8,7 +8,7 @@ AdvantageScope 包含一個彈性的系統，用於將日誌資料匯出為 CSV�
 
 要檢視匯出選項，請點擊 `檔案` > `匯出資料...`。
 
-<img src="/img/overview/log-files/export-1.webp" alt="匯出選項" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="匯出選項" />
 
 _上圖所示為英文介面。_
 
@@ -48,4 +48,4 @@ _此警告**不適用**於由 AdvantageKit 產生的日誌，透過選擇「Adva
 
 從 AdvantageScope 匯出的範例 CSV 檔案如下所示，採用「CSV (表格)」格式且時間戳記設定為「所有變更」：
 
-<img src="/img/overview/log-files/export-2.webp" alt="CSV 表格" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="CSV 表格" />

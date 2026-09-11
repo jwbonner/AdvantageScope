@@ -28,7 +28,7 @@ AdvantageScope दुनिया भर की टीमों के लिए
 
 AdvantageScope में प्रदर्शन भाषा बदलने के लिए, `ऐप` > `प्राथमिकताएं दिखाएँ...` (Windows/Linux) या `AdvantageScope` > `सेटिंग्स...` (macOS) पर क्लिक करके प्राथमिकताएं विंडो खोलें। "भाषा" सेटिंग के तहत, आप समर्थित भाषाओं की सूची में से चुन सकते हैं या अपने ऑपरेटिंग सिस्टम की भाषा से स्वचालित रूप से मिलान करने के लिए "सिस्टम डिफ़ॉल्ट" का चयन कर सकते हैं।
 
-<img src="/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
+<img src="/AdvantageScope/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
 
 ## लॉगिंग कुंजियाँ {#logging-keys}
 

@@ -6,8 +6,8 @@ draft: true
 
 #
 
-<img src="/img/whats-new/banner-light.webp" className="light-only" />
-<img src="/img/whats-new/banner-dark.webp" className="dark-only" />
+<img src="/AdvantageScope/img/whats-new/banner-light.webp" className="light-only" />
+<img src="/AdvantageScope/img/whats-new/banner-dark.webp" className="dark-only" />
 
 AdvantageScope का 2026 संस्करण अब उपलब्ध है! विवरण के लिए [स्थापना दस्तावेज़](/overview/installation) और [पूर्ण परिवर्तन लॉग](https://github.com/Mechanical-Advantage/AdvantageScope/releases) देखें। इस रिलीज़ में कई प्रमुख नए फीचर्स और पूरे एप्लिकेशन में कई सुधार शामिल हैं। इस रिलीज़ के कई फीचर्स मौजूदा नियंत्रण प्रणालियों पर अनुभव को बेहतर बनाने के लिए डिज़ाइन किए गए हैं, जबकि भविष्य के सीज़न में [Systemcore](https://community.firstinspires.org/march-updates-on-the-future-robot-controller) में एक सहज संक्रमण की तैयारी भी करते हैं।
 
@@ -27,11 +27,11 @@ FTC टीमों को आधिकारिक सीज़न के द�
 :::
 
 <div className="image-gallery">
-  <img src="/img/more-features/ftc-compatibility/ftc-1.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-2.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-3.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-4.webp" />
-  <img src="/img/more-features/ftc-compatibility/ftc-5.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-1.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-2.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-3.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-4.webp" />
+  <img src="/AdvantageScope/img/more-features/ftc-compatibility/ftc-5.webp" />
 </div>
 
 कई तृतीय-पक्ष FTC लॉगिंग/टेलीमेट्री लाइब्रेरी AdvantageScope के साथ संगत अन्य प्रारूपों का समर्थन करती हैं, जैसे कि WPILOG और RLOG। इन पुस्तकालयों का दस्तावेज़ीकरण संबंधित परियोजनाओं में पाया जा सकता है; AdvantageScope डेवलपर्स AdvantageScope के साथ उपयोग के लिए किसी विशेष FTC लॉगिंग समाधान का समर्थन/सिफारिश नहीं करते हैं।
@@ -55,7 +55,7 @@ AdvantageScope को WPILib फ्रेमवर्क और संबद्�
 
 _इकाई समर्थन के बारे में अधिक जानकारी [दस्तावेज़](/tab-reference/line-graph/units) में पाई जा सकती है।_
 
-<img src="/img/tab-reference/line-graph/units-1.webp" alt="Unit-aware graphing" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/units-1.webp" alt="Unit-aware graphing" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -75,7 +75,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 डाउनलोड विंडो अब सबफ़ोल्डर्स में संग्रहीत लॉग्स को सहेजने का समर्थन करती है। लॉग्स के प्रत्येक सबफ़ोल्डर को एक समूह के रूप में डाउनलोड किया जा सकता है, जो CTRE के [Signal Logger](https://v6.docs.ctr-electronics.com/en/stable/docs/api-reference/api-usage/signal-logging.html) के 2026 रिलीज़ द्वारा जनरेट किए गए लॉग्स को डाउनलोड करने के लिए एक सुव्यवस्थित दृष्टिकोण प्रदान करता है (जो एकल लॉग फ़ाइल में डेटा संग्रहीत करने में असमर्थ होने के लिए सबफ़ोल्डर्स का उपयोग करता है)।
 
-<img src="/img/whats-new/subfolders.webp" alt="Downloading log subfolders" height="450" />
+<img src="/AdvantageScope/img/whats-new/subfolders.webp" alt="Downloading log subfolders" height="450" />
 
 ## 🌈 नए विज़ुअलाइज़ेशन विकल्प {#new-visualization-options}
 
@@ -85,7 +85,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 - जब [3D फील्ड पर 2D मैकेनिज्म विज़ुअलाइज़ करते हैं](/tab-reference/3d-field/#2d-mechanisms), तो मैकेनिज्म को अब XZ प्लेन के अलावा YZ प्लेन पर भी रखा जा सकता है। यह कई अक्षों में गति के साथ जटिल मैकेनिज्म के आसान विज़ुअलाइज़ेशन को सक्षम बनाता है।
 - 3D फील्ड अब रेंडर किए गए किनारों की गुणवत्ता में सुधार के लिए वैकल्पिक एंटीएलियासिंग का समर्थन करता है।
 
-<img src="/img/whats-new/field-viz.jpg" alt="New field visualizations" />
+<img src="/AdvantageScope/img/whats-new/field-viz.jpg" alt="New field visualizations" />
 
 ## 🪵 REV Robotics CAN लॉग सपोर्ट {#rev-robotics-can-log-support}
 
@@ -93,19 +93,19 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 एक सहज संक्रमण सुनिश्चित करने और पिछले सीज़न के साथ फीचर समानता प्रदान करने के लिए 2026 सीज़न के दौरान URCL और आधिकारिक `StatusLogger` दोनों उपलब्ध रहेंगे। 2027 और उसके बाद के लॉगिंग विकल्पों के बारे में साझा करने के लिए हमारे पास बाद में अधिक विवरण होंगे।
 
-<img src="/img/whats-new/revlog.webp" alt="REVLOG visualization" />
+<img src="/AdvantageScope/img/whats-new/revlog.webp" alt="REVLOG visualization" />
 
 ## 💿 CSV फ़ाइल इम्पोर्ट {#csv-file-imports}
 
 रोबोट लॉगिंग फ्रेमवर्क के बाहर उत्पादित डेटा के अधिक लचीले विज़ुअलाइज़ेशन के लिए, AdvantageScope में अब CSV फ़ाइलों को इम्पोर्ट करने के लिए बुनियादी समर्थन शामिल है। समर्थित प्रारूपों और अन्य सीमाओं के बारे में अधिक विवरण के लिए [दस्तावेज़](/overview/log-files/#csv-formatting) देखें।
 
-<img src="/img/overview/log-files/export-2.webp" alt="CSV data" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="CSV data" />
 
 ## 🤩 सौंदर्य संबंधी सुधार {#aesthetic-improvements}
 
 Windows 11 पर AdvantageScope UI को एक ट्रांसलूसेंट साइडबार का समर्थन करने के लिए अपडेट किया गया है, जो पहले केवल macOS रिलीज़ के लिए अनन्य था। Apple के लिक्विड ग्लास मटेरियल पर आधारित macOS Tahoe के लिए एक अपडेटेड ऐप आइकन भी उपलब्ध है।
 
-<img src="/img/whats-new/windows-ui.webp" alt="Windows UI" />
+<img src="/AdvantageScope/img/whats-new/windows-ui.webp" alt="Windows UI" />
 
 ## 📋 सुव्यवस्थित मेनू {#streamlined-menus}
 
@@ -116,9 +116,9 @@ Windows 11 पर AdvantageScope UI को एक ट्रांसलूसे
 - प्राथमिकताएं विंडो का पुनर्गठन, जिससे विकल्पों को जल्दी से खोजना आसान हो जाता है।
 
 <div className="image-gallery">
-  <img src="/img/whats-new/menus-1.webp" />
-  <img src="/img/whats-new/menus-2.webp" />
-  <img src="/img/prefs_hi.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-1.webp" />
+  <img src="/AdvantageScope/img/whats-new/menus-2.webp" />
+  <img src="/AdvantageScope/img/prefs_hi.webp" />
 </div>
 
 ## 🐛 स्थिरता सुधार {#stability-improvements}

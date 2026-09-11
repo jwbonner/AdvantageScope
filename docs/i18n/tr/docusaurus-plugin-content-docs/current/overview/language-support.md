@@ -28,7 +28,7 @@ AdvantageScope, dünya çapındaki takımlara yerelleştirilmiş bir deneyim sun
 
 AdvantageScope'ta görüntüleme dilini değiştirmek için `App` > `Tercihleri Göster...` (Windows/Linux) veya `AdvantageScope` > `Ayarlar...` (macOS) seçeneğine tıklayarak tercihler penceresini açın. "Dil" ayarı altında, desteklenen diller listesinden seçim yapabilir veya işletim sisteminizin diliyle otomatik olarak eşleştirmek için "Sistem Varsayılanı"nı seçebilirsiniz.
 
-<img src="/img/prefs_tr.webp" alt="Tercihler şeması" height="450" />
+<img src="/AdvantageScope/img/prefs_tr.webp" alt="Tercihler şeması" height="450" />
 
 ## Log anahtarları {#logging-keys}
 

@@ -2,7 +2,7 @@
 
 الرسم البياني الخطي هو العرض الافتراضي في AdvantageScope. وهو يدعم كلاً من الحقول المستمرة (الرقمية) والمنفصلة.
 
-<img src="/img/tab-reference/line-graph/line-graph-1.webp" alt="عرض توضيحي للرسم البياني الخطي" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-1.webp" alt="عرض توضيحي للرسم البياني الخطي" />
 
 _تظهر في الصورة أعلاه الواجهة باللغة الإنجليزية._
 
@@ -22,12 +22,12 @@ _تظهر في الصورة أعلاه الواجهة باللغة الإنجل�
 
 يمكن تخصيص اللون ونمط الخط لكل حقل بالنقر فوق الأيقونة الملونة أو النقر بزر الماوس الأيمن على اسم الحقل. يمكن عرض البيانات من واجهة برمجة تطبيقات [التنبيهات المستمرة](https://docs.wpilib.org/en/latest/docs/software/telemetry/persistent-alerts.html) الخاصة بـ WPILib عن طريق إضافة مجموعة التنبيهات كحقل منفصل. يظهر مثال للعرض المرئي أدناه.
 
-<img src="/img/tab-reference/line-graph/line-graph-2.webp" alt="مرئيات التنبيهات" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-2.webp" alt="مرئيات التنبيهات" />
 
 :::tip
 لتراكب وضع الروبوت (ذاتي، أو تحكم عن بعد، أو مرافق)، انقر فوق النقاط الثلاث بجوار «حقول منفصلة» وانقر فوق «إظهار وضع الروبوت».
 
-<img src="/img/tab-reference/line-graph/line-graph-3.webp" alt="تراكب وضع الروبوت" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-3.webp" alt="تراكب وضع الروبوت" />
 
 _تظهر في الصورة أعلاه الواجهة باللغة الإنجليزية._
 :::
@@ -36,7 +36,7 @@ _تظهر في الصورة أعلاه الواجهة باللغة الإنجل�
 
 بشكل افتراضي، يضبط كل محور نطاقه بناءً على البيانات المرئية. لتعطيل النطاق التلقائي وقفل النطاق على أدنى وأقصى حد حالي، انقر فوق النقاط الثلاث بالقرب من عنوان المحور ثم `تأمين المحور`. لضبط النطاق يدوياً، اختر `تعديل النطاق...` وأدخل القيم المرغوبة.
 
-<img src="/img/tab-reference/line-graph/line-graph-4.webp" alt="تعديل نطاق المحور" height="250" />
+<img src="/AdvantageScope/img/tab-reference/line-graph/line-graph-4.webp" alt="تعديل نطاق المحور" height="250" />
 
 _تظهر في الصورة أعلاه الواجهة باللغة الإنجليزية._
 

@@ -22,7 +22,7 @@ Na barra de menus, clique em `Arquivo` > `Abrir log(s)...`, depois escolha um ou
 Se múltiplos arquivos forem abertos simultaneamente, os timestamps serão alinhados automaticamente. Isso permite uma comparação fácil de arquivos de log de múltiplas fontes. Consulte a página de [Timestamps](/more-features/timestamps) para obter detalhes sobre as opções de exibição de timestamps.
 :::
 
-<img src="/img/overview/log-files/open-file-1.webp" alt="Abrindo um log salvo" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-1.webp" alt="Abrindo um log salvo" />
 
 _A interface em inglês é exibida acima._
 
@@ -39,7 +39,7 @@ Na barra de menus, clique em `Arquivo` > `Adicionar novo(s) log(s)...`, depois e
 
 Abra a janela de preferências clicando em `App` > `Mostrar Preferências...` (Windows/Linux) ou `AdvantageScope` > `Configurações...` (macOS). Atualize o endereço do robô e a pasta de logs.
 
-<img src="/img/prefs_pt-BR.webp" alt="Diagrama de preferências" height="450" />
+<img src="/AdvantageScope/img/prefs_pt-BR.webp" alt="Diagrama de preferências" height="450" />
 </details>
 
 Clique em `Arquivo` > `Baixar logs...` para abrir a janela de download. O download de logs é suportado no Systemcore e no roboRIO. Uma vez conectado ao robô, os logs disponíveis são exibidos com o mais recente no topo. Selecione um ou mais arquivos de log para baixar (clique com shift para selecionar um intervalo ou **cmd/ctrl + A** para selecionar todos). Em seguida, clique no símbolo ↓ e selecione um local de salvamento.
@@ -52,7 +52,7 @@ O [registrador de sinais](https://v6.docs.ctr-electronics.com/en/stable/docs/api
 Ao baixar vários arquivos, o AdvantageScope ignora qualquer um que já exista na pasta de destino.
 :::
 
-<img src="/img/overview/log-files/open-file-2.webp" alt="Baixando arquivos de log" height="350" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-2.webp" alt="Baixando arquivos de log" height="350" />
 
 _A interface em inglês é exibida acima._
 

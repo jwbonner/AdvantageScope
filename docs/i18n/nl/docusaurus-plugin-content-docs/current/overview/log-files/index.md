@@ -22,7 +22,7 @@ Klik in de menubalk op `Bestand` > `Logbestand(en) openen...` en kies vervolgens
 Als er meerdere bestanden tegelijk worden geopend, worden de tijdstempels automatisch uitgelijnd. Dit maakt het eenvoudig om logbestanden van meerdere bronnen te vergelijken. Zie de pagina [Tijdstempels](/more-features/timestamps) voor details over weergaveopties voor tijdstempels.
 :::
 
-<img src="/img/overview/log-files/open-file-1.webp" alt="Een opgeslagen logbestand openen" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-1.webp" alt="Een opgeslagen logbestand openen" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -39,7 +39,7 @@ Klik in de menubalk op `Bestand` > `Nieuw(e) logbestand(en) toevoegen...` en kie
 
 Open het voorkeurenvenster door te klikken op `App` > `Voorkeuren tonen...` (Windows/Linux) of `AdvantageScope` > `Instellingen...` (macOS). Werk het robotadres en het logpad bij.
 
-<img src="/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
+<img src="/AdvantageScope/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
 </details>
 
 Klik op `Bestand` > `Logs downloaden...` om het downloadvenster te openen. Het downloaden van logs wordt ondersteund op Systemcore en de roboRIO. Zodra er verbinding is met de robot, worden de beschikbare logs getoond met de nieuwste bovenaan. Selecteer een of meer logbestanden om te downloaden (shift-klik om een bereik te selecteren of **cmd/ctrl + A** om alles te selecteren). Klik vervolgens op het ↓-symbool en selecteer een opslaglocatie.
@@ -52,7 +52,7 @@ CTRE's [signaallogger](https://v6.docs.ctr-electronics.com/en/stable/docs/api-re
 Bij het downloaden van meerdere bestanden slaat AdvantageScope bestanden over die al in de doelmap bestaan.
 :::
 
-<img src="/img/overview/log-files/open-file-2.webp" alt="Logbestanden downloaden" height="350" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-2.webp" alt="Logbestanden downloaden" height="350" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 

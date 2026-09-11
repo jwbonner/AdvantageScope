@@ -2,7 +2,7 @@
 
 下面的截图展示了 AdvantageScope 主窗口的重要元素。具体外观因操作系统而异。
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="导航图解" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="导航图解" />
 
 _上图所示为英文界面。_
 

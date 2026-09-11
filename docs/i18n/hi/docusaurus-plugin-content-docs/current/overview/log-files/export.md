@@ -8,7 +8,7 @@ AdvantageScope में CSV, WPILOG, या MCAP फ़ाइल के रू�
 
 एक्सपोर्ट करने के विकल्प देखने के लिए, `फ़ाइल` > `डेटा एक्सपोर्ट करें...` पर क्लिक करें।
 
-<img src="/img/overview/log-files/export-1.webp" alt="Export options" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="Export options" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -48,4 +48,4 @@ _यह चेतावनी AdvantageKit द्वारा निर्मि
 
 AdvantageScope से एक्सपोर्ट की गई एक उदाहरण CSV फ़ाइल नीचे दिखाई गई है, "CSV (टेबल)" प्रारूप में टाइमस्टैम्प्स "सभी बदलाव" पर सेट हैं:
 
-<img src="/img/overview/log-files/export-2.webp" alt="CSV table" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="CSV table" />

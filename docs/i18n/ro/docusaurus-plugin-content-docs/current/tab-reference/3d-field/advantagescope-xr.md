@@ -32,13 +32,13 @@ AdvantageScope XR este suportat doar pe iOS și iPadOS. Nu există planuri imedi
 
 1. Pe sistemul gazdă, **dați clic pe butonul „XR”** pe orice filă de teren 3D. Doar o singură sesiune gazdă XR poate fi activă în același timp, astfel încât dând clic pe acest buton se vor întrerupe orice alte sesiuni active.
 
-<img src="/img/tab-reference/3d-field/xr-1.webp" alt="Buton XR" height="450" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-1.webp" alt="Buton XR" height="450" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 
 2. Fereastra de **controale XR** se va deschide, având un cod QR și [opțiuni](#options) pentru a personaliza experiența AR. Pentru a anula sesiunea XR și a deconecta orice clienți, închideți fereastra de controale.
 
-<img src="/img/tab-reference/3d-field/xr-2.webp" alt="Fereastră XR" height="350" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-2.webp" alt="Fereastră XR" height="350" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 
@@ -74,7 +74,7 @@ Fereastra de controale XR prezintă câteva opțiuni care controlează modul în
 
 AdvantageScope XR nu necesită o conexiune la internet. Pentru a vă asigura că aplicația este disponibilă offline, descărcați AdvantageScope XR din App Store folosind linkul de mai jos. Pentru a vă conecta la aplicația desktop AdvantageScope, scanați codul QR folosind aplicația de cameră iOS sau atingeți butonul „Scan” în aplicația AdvantageScope XR.
 
-<img src="/img/tab-reference/3d-field/app-store.svg" alt="App Store" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/app-store.svg" alt="App Store" />
 
 :::note
 Chiar și când rulează fără o conexiune la internet, dispozitivele gazdă și client **trebuie să fie conectate la aceeași rețea** (cum ar fi un robot, o rețea Wi-Fi personalizată sau prin partajare internet USB).

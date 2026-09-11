@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 La pestaña swerve muestra el estado de cuatro módulos swerve, incluidos los vectores de velocidad, las posiciones de inactividad, la rotación del robot y las velocidades del chasis.
 
-<img src="/img/tab-reference/swerve-1.webp" alt="Descripción general de la pestaña de swerve" />
+<img src="/AdvantageScope/img/tab-reference/swerve-1.webp" alt="Descripción general de la pestaña de swerve" />
 
 _En la imagen de arriba se muestra la interfaz en inglés._
 
@@ -22,7 +22,7 @@ Las secciones amarillas indican cuando el robot es autónomo, las secciones azul
 
 Para hacer zoom, coloca el cursor sobre la línea de tiempo y desplázate hacia arriba o hacia abajo. También se puede seleccionar un rango haciendo clic y arrastrando mientras se mantiene presionada la tecla `Shift`. Muévete hacia la izquierda y hacia la derecha desplazándote horizontalmente (en dispositivos compatibles) o haciendo clic y arrastrando en la línea de tiempo. Cuando estás conectado en vivo, desplazarte hacia la izquierda desbloquea del tiempo actual, y desplazarte hasta la derecha vuelve a bloquear al tiempo actual. Presiona `Ctrl+\` para hacer zoom al período en el que el robot está habilitado.
 
-<img src="/img/tab-reference/timeline.webp" alt="Línea de tiempo" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Línea de tiempo" />
 
 </details>
 

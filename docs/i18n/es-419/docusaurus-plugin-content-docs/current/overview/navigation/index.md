@@ -2,7 +2,7 @@
 
 La captura de pantalla a continuación muestra los elementos importantes de la ventana principal de AdvantageScope. La apariencia exacta difiere entre sistemas operativos.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Diagrama de navegación" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Diagrama de navegación" />
 
 _En la imagen de arriba se muestra la interfaz en inglés._
 

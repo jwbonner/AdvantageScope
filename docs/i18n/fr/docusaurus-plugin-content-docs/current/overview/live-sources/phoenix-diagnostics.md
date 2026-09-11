@@ -19,11 +19,11 @@ AdvantageScope prend en charge la diffusion en direct de signaux depuis des appa
 Pour vous connecter, sélectionnez « Diagnostics Phoenix » lors de la connexion au robot ou au simulateur depuis la barre de menu.
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="Capture d'écran du graphique linéaire" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="Capture d'écran du graphique linéaire" />
 
 L'onglet 📊 [Statistiques](/tab-reference/statistics) d'AdvantageScope permet également une analyse avancée des signaux Phoenix, avec la prise en charge des histogrammes, des plages personnalisées et des champs dérivés pour les mesures d'erreur relative et absolue :
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="Capture d'écran des statistiques" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="Capture d'écran des statistiques" />
 
 _L'interface en anglais est illustrée ci-dessus._
 

@@ -8,7 +8,7 @@ AdvantageScope bevat een flexibel systeem voor het exporteren van logdata als CS
 
 Om de opties voor exporteren te bekijken, klik je op `Bestand` > `Data exporteren...`.
 
-<img src="/img/overview/log-files/export-1.webp" alt="Exportopties" />
+<img src="/AdvantageScope/img/overview/log-files/export-1.webp" alt="Exportopties" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -48,4 +48,4 @@ De volgende opties zijn beschikbaar bij het exporteren:
 
 Hieronder wordt een voorbeeld van een CSV-bestand getoond dat is geëxporteerd uit AdvantageScope, in het formaat "CSV (tabel)" met tijdstempels ingesteld op "Alle wijzigingen":
 
-<img src="/img/overview/log-files/export-2.webp" alt="CSV-tabel" />
+<img src="/AdvantageScope/img/overview/log-files/export-2.webp" alt="CSV-tabel" />

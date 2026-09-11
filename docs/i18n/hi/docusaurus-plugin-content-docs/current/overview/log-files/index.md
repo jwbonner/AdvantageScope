@@ -22,7 +22,7 @@ Hoot लॉग फ़ाइलें केवल CTRE के [एंड यू�
 यदि एक साथ कई फ़ाइलें खोली जाती हैं, तो टाइमस्टैम्प स्वचालित रूप से संरेखित हो जाएंगे। यह कई स्रोतों से लॉग फ़ाइलों की आसान तुलना को सक्षम बनाता है। टाइमस्टैम्प प्रदर्शन विकल्पों के विवरण के लिए [टाइमस्टैम्प्स](/more-features/timestamps) पृष्ठ देखें।
 :::
 
-<img src="/img/overview/log-files/open-file-1.webp" alt="Opening a saved log" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-1.webp" alt="Opening a saved log" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 
@@ -39,7 +39,7 @@ _ऊपर अंग्रेजी इंटरफ़ेस दिखाया 
 
 `ऐप` > `प्राथमिकताएं दिखाएँ...` (Windows/Linux) या `AdvantageScope` > `सेटिंग्स...` (macOS) पर क्लिक करके प्राथमिकताएं विंडो खोलें। रोबोट का पता और लॉग फ़ोल्डर अपडेट करें।
 
-<img src="/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
+<img src="/AdvantageScope/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
 </details>
 
 डाउनलोड विंडो खोलने के लिए `फ़ाइल` > `लॉग्स डाउनलोड करें...` पर क्लिक करें। लॉग डाउनलोडिंग Systemcore और roboRIO पर समर्थित है। रोबोट से कनेक्ट होने के बाद, उपलब्ध लॉग्स शीर्ष पर नवीनतम के साथ दिखाए जाते हैं। डाउनलोड करने के लिए एक या अधिक लॉग फ़ाइलें चुनें (एक सीमा का चयन करने के लिए shift-क्लिक करें या सभी का चयन करने के लिए **cmd/ctrl + A**)। फिर ↓ प्रतीक पर क्लिक करें और एक सेव स्थान चुनें।
@@ -52,7 +52,7 @@ CTRE का [सिग्नल लॉगर](https://v6.docs.ctr-electronics.co
 एकाधिक फ़ाइलें डाउनलोड करते समय, AdvantageScope गंतव्य फ़ोल्डर में पहले से मौजूद किसी भी फ़ाइल को छोड़ देता है।
 :::
 
-<img src="/img/overview/log-files/open-file-2.webp" alt="Downloading log files" height="350" />
+<img src="/AdvantageScope/img/overview/log-files/open-file-2.webp" alt="Downloading log files" height="350" />
 
 _ऊपर अंग्रेजी इंटरफ़ेस दिखाया गया है।_
 

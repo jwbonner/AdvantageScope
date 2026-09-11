@@ -32,13 +32,13 @@ O AdvantageScope XR é suportado apenas no iOS e iPadOS. Não há planos imediat
 
 1. No sistema hospedeiro, **clique no botão "XR"** em qualquer guia de campo 3D. Apenas uma sessão hospedeira de XR pode estar ativa ao mesmo tempo, portanto, clicar neste botão interromperá quaisquer outras sessões ativas.
 
-<img src="/img/tab-reference/3d-field/xr-1.webp" alt="Botão XR" height="450" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-1.webp" alt="Botão XR" height="450" />
 
 _A interface em inglês é exibida acima._
 
 2. A **janela de controles do XR** será aberta, com um código QR e [opções](#options) para personalizar a experiência de AR. Para cancelar a sessão de XR e desconectar quaisquer clientes, feche a janela de controles.
 
-<img src="/img/tab-reference/3d-field/xr-2.webp" alt="Janela XR" height="350" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/xr-2.webp" alt="Janela XR" height="350" />
 
 _A interface em inglês é exibida acima._
 
@@ -74,7 +74,7 @@ A janela de controles do XR apresenta várias opções que controlam como o mode
 
 O AdvantageScope XR não requer uma conexão com a internet. Para garantir que o aplicativo esteja disponível offline, baixe o AdvantageScope XR da App Store usando o link abaixo. Para se conectar ao aplicativo de desktop do AdvantageScope, escaneie o código QR usando o aplicativo de câmera do iOS ou toque no botão "Escanear" no aplicativo AdvantageScope XR.
 
-<img src="/img/tab-reference/3d-field/app-store.svg" alt="App Store" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/app-store.svg" alt="App Store" />
 
 :::note
 Mesmo ao executar sem uma conexão com a internet, os dispositivos hospedeiro e cliente **devem estar conectados à mesma rede** (como um robô, rede Wi-Fi personalizada ou via ancoragem USB).

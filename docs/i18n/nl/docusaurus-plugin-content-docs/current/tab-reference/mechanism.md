@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 Het tabblad mechanisme toont een geleed mechanisme dat is gemaakt met een of meer [Mechanism2d](https://docs.wpilib.org/en/stable/docs/software/dashboards/glass/mech2d-widget.html)-objecten.
 
-<img src="/img/tab-reference/mechanism-1.webp" alt="Overzicht van tabblad mechanisme" />
+<img src="/AdvantageScope/img/tab-reference/mechanism-1.webp" alt="Overzicht van tabblad mechanisme" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -22,7 +22,7 @@ Gele gedeelten geven aan wanneer de robot autonoom is, blauwe gedeelten geven aa
 
 Om te zoomen, plaats je de cursor op de tijdlijn en scrol je omhoog of omlaag. Er kan ook een bereik worden geselecteerd door te klikken en te slepen terwijl je `Shift` ingedrukt houdt. Beweeg naar links en rechts door horizontaal te scrollen (op ondersteunde apparaten), of door op de tijdlijn te klikken en te slepen. Wanneer er live verbinding is, ontgrendelt naar links scrollen van de huidige tijd, en helemaal naar rechts scrollen vergrendelt weer op de huidige tijd. Druk op `Ctrl+\` om in te zoomen op de periode waarin de robot is ingeschakeld.
 
-<img src="/img/tab-reference/timeline.webp" alt="Tijdlijn" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Tijdlijn" />
 
 </details>
 

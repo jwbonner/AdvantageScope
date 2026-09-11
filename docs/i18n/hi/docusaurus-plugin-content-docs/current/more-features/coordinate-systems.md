@@ -18,22 +18,22 @@ AdvantageScope [🗺️ 2D फील्ड](/tab-reference/2d-field) और [�
 
 मूल (origin) मैदान के केंद्र में है, जिसमें +X अक्ष रेड एलायंस वॉल से दूर की ओर है, जैसा कि नीचे दिखाया गया है। **यह 2027 से शुरू होने वाले FRC फील्ड्स और 2027-2028 से शुरू होने वाले FTC फील्ड्स के लिए डिफ़ॉल्ट कोऑर्डिनेट सिस्टम है।**
 
-<img src="/img/more-features/coordinate-system-center-red.webp" alt="Center/red coordinate system" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-center-red.webp" alt="Center/red coordinate system" />
 
 ## ब्लू वॉल {#blue-wall}
 
 मूल (origin) ब्लू एलायंस वॉल के सबसे दाहिने कोने में है, जिसमें +X अक्ष रेड एलायंस वॉल की ओर है, जैसा कि नीचे दिखाया गया है। **यह 2023 से 2026 तक के FRC फील्ड्स के लिए डिफ़ॉल्ट कोऑर्डिनेट सिस्टम है।**
 
-<img src="/img/more-features/coordinate-system-blue-wall.webp" alt="Blue wall coordinate system" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-blue-wall.webp" alt="Blue wall coordinate system" />
 
 ## एलायंस वॉल {#alliance-wall}
 
 मूल (origin) _रोबोट के वर्तमान एलायंस_ के लिए एलायंस वॉल के सबसे दाहिने कोने में है, जिसमें +X अक्ष विपरीत एलायंस वॉल की ओर है, जैसा कि नीचे दिखाया गया है। **यह 2022 में FRC के लिए डिफ़ॉल्ट कोऑर्डिनेट सिस्टम है।**
 
-<img src="/img/more-features/coordinate-system-alliance-wall.webp" alt="Alliance wall coordinate system" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-alliance-wall.webp" alt="Alliance wall coordinate system" />
 
 ## सेंटर/रोटेटेड {#center-rotated}
 
 मूल (origin) मैदान के केंद्र में है, जिसमें +X अक्ष रेड एलायंस वॉल के दृष्टिकोण से दाईं ओर है, जैसा कि नीचे दिखाया गया है। **यह 2024-2025 से 2026-2027 तक के FTC फील्ड्स के लिए डिफ़ॉल्ट कोऑर्डिनेट सिस्टम है।**
 
-<img src="/img/more-features/coordinate-system-center-rotated.webp" alt="Center/rotated coordinate system" height="400" />
+<img src="/AdvantageScope/img/more-features/coordinate-system-center-rotated.webp" alt="Center/rotated coordinate system" height="400" />

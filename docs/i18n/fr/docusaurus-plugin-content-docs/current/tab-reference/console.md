@@ -13,7 +13,7 @@ La vue console est conçue pour afficher un champ de chaîne de caractères uniq
 
 Faites glisser le champ souhaité vers la vue principale pour commencer. Chaque ligne représente une mise à jour du champ. Pour les journaux WPILib, une nouvelle ligne est créée pour chaque ligne enregistrée. Pour les journaux AdvantageKit, une nouvelle ligne est créée pour chaque cycle de boucle.
 
-<img src="/img/tab-reference/console-1.webp" alt="Vue de la console" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="Vue de la console" />
 
 _L'interface en anglais est illustrée ci-dessus._
 

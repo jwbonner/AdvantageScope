@@ -19,11 +19,11 @@ AdvantageScope תומכת בהזרמה חיה של אותות ממכשירי Pho
 להתחברות, יש לבחור "דיאגנוסטיקה Phoenix" בעת התחברות לרובוט או לסימולטור מסרגל התפריטים.
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="צילום מסך של גרף קווי" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="צילום מסך של גרף קווי" />
 
 כרטיסיית 📊 [סטטיסטיקה](/tab-reference/statistics) ב-AdvantageScope מאפשרת גם ניתוח מתקדם של אותות Phoenix, עם תמיכה בהיסטוגרמות, טווחים מותאמים אישית ושדות מיוצרים עבור מדידות שגיאה יחסית ומוחלטת:
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="צילום מסך של סטטיסטיקה" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="צילום מסך של סטטיסטיקה" />
 
 _ממשק באנגלית מוצג למעלה._
 

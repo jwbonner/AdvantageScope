@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 Fila metadate afișează valorile publicate în tabelul ascuns „/Metadata” sau prin AdvantageKit. Cheile de metadate sunt afișate în stânga, iar coloanele separă datele din surse diferite (de ex. real și reluare când se utilizează AdvantageKit).
 
-<img src="/img/tab-reference/metadata-1.webp" alt="Prezentare generală a filei metadate" />
+<img src="/AdvantageScope/img/tab-reference/metadata-1.webp" alt="Prezentare generală a filei metadate" />
 
 _Interfața în limba engleză este ilustrată mai sus._
 

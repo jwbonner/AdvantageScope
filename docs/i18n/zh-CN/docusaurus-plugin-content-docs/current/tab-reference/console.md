@@ -13,7 +13,7 @@ sidebar_position: 5
 
 要开始使用，请将所需的字段拖动到主视图中。每行代表字段的一次更新。对于 WPILib 日志，会为每个保存的行创建一个新行。对于 AdvantageKit 日志，会为每个循环周期创建一个新行。
 
-<img src="/img/tab-reference/console-1.webp" alt="控制台视图" />
+<img src="/AdvantageScope/img/tab-reference/console-1.webp" alt="控制台视图" />
 
 _上图所示为英文界面。_
 

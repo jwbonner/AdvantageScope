@@ -25,4 +25,4 @@ Wanneer [meerdere logbestanden tegelijkertijd worden geopend](/overview/log-file
 
 Om de weergavemodus voor tijdstempels te wijzigen, open je het voorkeurenvenster door te klikken op `App` > `Voorkeuren tonen...` (Windows/Linux) of `AdvantageScope` > `Instellingen...` (macOS), of door op `Ctrl+,` / `Cmd+,` te drukken. Wijzig de instelling **Tijdstempels** naar de gewenste optie.
 
-<img src="/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
+<img src="/AdvantageScope/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />

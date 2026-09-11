@@ -5,7 +5,7 @@ import TabItem from '@theme/TabItem';
 
 Het 3D-veld toont een 3D-visualisatie van de robot en het veld. Het kan worden gebruikt met gewone 2D-poses, maar is vooral nuttig bij het werken met 3D-berekeningen (zoals lokalisatie met AprilTags). Er zijn meerdere cameraweergaven beschikbaar, waaronder veldrelatief, robotrelatief en vast. Met [AdvantageScope XR](advantagescope-xr) kan dit tabblad worden gevisualiseerd met augmented reality. De tijdlijn toont wanneer de robot is ingeschakeld en kan worden gebruikt om door de logdata te navigeren.
 
-<img src="/img/tab-reference/3d-field/3d-field-1.webp" alt="Voorbeeld van tabblad 3D-veld" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-1.webp" alt="Voorbeeld van tabblad 3D-veld" />
 
 _De Engelstalige interface wordt hierboven weergegeven._
 
@@ -18,7 +18,7 @@ Gele gedeelten geven aan wanneer de robot autonoom is, blauwe gedeelten geven aa
 
 Om te zoomen, plaats je de cursor op de tijdlijn en scrol je omhoog of omlaag. Er kan ook een bereik worden geselecteerd door te klikken en te slepen terwijl je `Shift` ingedrukt houdt. Beweeg naar links en rechts door horizontaal te scrollen (op ondersteunde apparaten), of door op de tijdlijn te klikken en te slepen. Wanneer er live verbinding is, ontgrendelt naar links scrollen van de huidige tijd, en helemaal naar rechts scrollen vergrendelt weer op de huidige tijd. Druk op `Ctrl+\` om in te zoomen op de periode waarin de robot is ingeschakeld.
 
-<img src="/img/tab-reference/timeline.webp" alt="Tijdlijn" />
+<img src="/AdvantageScope/img/tab-reference/timeline.webp" alt="Tijdlijn" />
 
 </details>
 
@@ -96,7 +96,7 @@ Mechanismedata kan worden gevisualiseerd met behulp van 2D-mechanismen of scharn
 
 Om mechanismedata te visualiseren die is gelogd met behulp van een [`Mechanism2d`](https://docs.wpilib.org/en/stable/docs/software/dashboards/glass/mech2d-widget.html), voeg je het mechanismeveld toe aan een bestaand robot- of ghost-object. Het mechanisme wordt op het XZ- of YZ-vlak van de robot geprojecteerd met behulp van eenvoudige blokken, zoals hieronder weergegeven. Klik op het tandwielpictogram of klik met de rechtermuisknop op de veldnaam om te schakelen tussen de XZ- en YZ-vlakken. De oorsprong van de robot is gecentreerd op de onderrand van het mechanisme.
 
-<img src="/img/tab-reference/3d-field/3d-field-2.webp" alt="2D-mechanisme" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-2.webp" alt="2D-mechanisme" />
 
 ### 3D-componenten {#3d-components}
 
@@ -108,7 +108,7 @@ Mechanismen kunnen worden gevisualiseerd met scharnierende componenten door een 
 
 Elk component kan onafhankelijk worden bewogen (zoals een liftslede, arm of eindeffector). AdvantageKit-gebruikers kunnen overwegen de methode [`generate3dMechanism()`](https://docs.advantagekit.org/data-flow/supported-types#mechanisms-output-only) te gebruiken om een Mechanism2d om te zetten in een array van Pose3d-objecten. Zie [Aangepaste assets](/more-features/custom-assets) voor meer informatie over het configureren van robots met componenten.
 
-<img src="/img/tab-reference/3d-field/3d-field-3.webp" alt="3D-mechanisme" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-3.webp" alt="3D-mechanisme" />
 
 ## Speelstukobjecten {#game-piece-objects}
 
@@ -128,7 +128,7 @@ Het AdvantageKit KitBot 2024-voorbeeldproject bevat een eenvoudig voorbeeld van 
 
 </details>
 
-<img src="/img/tab-reference/3d-field/3d-field-4.webp" alt="2024 KitBot note-visualisatie" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-4.webp" alt="2024 KitBot note-visualisatie" />
 
 ## Camera-opties {#camera-options}
 
@@ -162,7 +162,7 @@ Automatische selectie van het stationsnummer kan onnauwkeurig zijn bij het bekij
 
 Elk robotmodel is geconfigureerd met een set vaste camera's, zoals vision- en bestuurderscamera's. Deze camera's hebben vaste posities, beeldverhoudingen en FOV's. Deze weergaven zijn vaak nuttig om vision-data te controleren of om het beeld van een bestuurderscamera te simuleren. In het onderstaande voorbeeld wordt een bestuurderscamera getoond.
 
-<img src="/img/tab-reference/3d-field/3d-field-5.webp" alt="Vaste camera" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-5.webp" alt="Vaste camera" />
 
 Als er een pose voor "Camera-override" wordt opgegeven, vervangt deze de standaardposes van alle vaste camera's, terwijl hun geconfigureerde FOV's en beeldverhoudingen behouden blijven. Hierdoor kan de robotcode de positie van een bewegende camera leveren, zoals een camera die op een koepel (turret) of shooter-kap is gemonteerd.
 
@@ -186,8 +186,8 @@ Het 3D-veld ondersteunt drie weergavemodi:
 - **Normaal (midden):** Standaard, renderen met minimale verlichting en vereenvoudigde 3D-modellen. Draait goed op de meeste apparaten.
 - **Energiezuinig (rechts):** Verlaag de framesnelheid, resolutie en modeldetails om het batterijverbruik te verminderen en consistentere prestaties te leveren op minder krachtige apparaten.
 
-<img src="/img/tab-reference/3d-field/3d-field-6.webp" alt="Vergelijking van weergavemodi" />
+<img src="/AdvantageScope/img/tab-reference/3d-field/3d-field-6.webp" alt="Vergelijking van weergavemodi" />
 
 Om de weergavemodus te configureren, open je het voorkeurenvenster door te klikken op `App` > `Voorkeuren tonen...` (Windows/Linux) of `AdvantageScope` > `Instellingen...` (macOS). De instelling "3D-modus (batterij)" kan worden gewijzigd ten opzichte van de standaardinstelling om de weergavemodus te overschrijven die op een laptop wordt gebruikt wanneer deze niet oplaadt. Dit kan bijvoorbeeld worden gebruikt om batterij te sparen tijdens wedstrijden.
 
-<img src="/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />
+<img src="/AdvantageScope/img/prefs_nl.webp" alt="Diagram van voorkeuren" height="450" />

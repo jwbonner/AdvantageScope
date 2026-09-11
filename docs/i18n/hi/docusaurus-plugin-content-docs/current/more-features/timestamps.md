@@ -25,4 +25,4 @@ WPILib 2027 से शुरू होकर, टाइमस्टैम्प�
 
 टाइमस्टैम्प प्रदर्शन मोड को बदलने के लिए, `ऐप` > `प्राथमिकताएं दिखाएँ...` (Windows/Linux) या `AdvantageScope` > `सेटिंग्स...` (macOS) पर क्लिक करके, या `Ctrl+,` / `Cmd+,` दबाकर प्राथमिकताएं विंडो खोलें। **टाइमस्टैम्प्स** सेटिंग को वांछित विकल्प में अपडेट करें।
 
-<img src="/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />
+<img src="/AdvantageScope/img/prefs_hi.webp" alt="Diagram of preferences" height="450" />

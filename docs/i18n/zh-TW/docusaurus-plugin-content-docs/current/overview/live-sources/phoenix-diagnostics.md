@@ -19,11 +19,11 @@ AdvantageScope 支援來自 Phoenix 6 裝置訊號的即時串流，**無需在�
 要連線，請在從選單列連線到機器人或模擬器時選擇「Phoenix 診斷」。
 :::
 
-<img src="/img/overview/live-sources/phoenix-1.webp" alt="折線圖螢幕截圖" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-1.webp" alt="折線圖螢幕截圖" />
 
 AdvantageScope 的 📊 [統計資料](/tab-reference/statistics)分頁還支援對 Phoenix 訊號進行進階分析，支援直方圖、自訂範圍以及用於相對與絕對誤差測量的衍生欄位：
 
-<img src="/img/overview/live-sources/phoenix-2.webp" alt="統計資料螢幕截圖" />
+<img src="/AdvantageScope/img/overview/live-sources/phoenix-2.webp" alt="統計資料螢幕截圖" />
 
 _上圖所示為英文介面。_
 

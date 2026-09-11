@@ -2,7 +2,7 @@
 
 На скриншоте ниже показаны важные элементы главного окна AdvantageScope. Точный внешний вид различается в зависимости от операционной системы.
 
-<img src="/img/overview/navigation/navigation-1.webp" alt="Диаграмма навигации" />
+<img src="/AdvantageScope/img/overview/navigation/navigation-1.webp" alt="Диаграмма навигации" />
 
 _Выше показан интерфейс на английском языке._
 
